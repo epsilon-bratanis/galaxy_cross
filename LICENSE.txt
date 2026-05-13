@@ -1,0 +1,9 @@
+Copyright (c) 2026 Epsilon Bratanis
+All rights reserved.
+
+This software and its source code are proprietary and confidential.
+Unauthorized copying, distribution, modification, or use of this
+software, in whole or in part, is strictly prohibited.
+
+This software is licensed, not sold. Use is permitted only under
+the terms agreed upon with Epsilon Bratanis.
