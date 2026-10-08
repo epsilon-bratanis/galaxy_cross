@@ -1,618 +1,821 @@
-chroma/base_files/animations/A - 1001 GREEN BLINKING CROSS.mp4
-chroma/base_files/animations/A - 1002 SOLID GREEN CROSS.mp4
-chroma/base_files/animations/A - 1010 SNAKE GREEN 3D.mp4
-chroma/base_files/animations/A - 1011 GREEN SNAKE ROTATION.mp4
-chroma/base_files/animations/A - 1012 GREEN SPINNING CROSSES.mp4
-chroma/base_files/animations/A - 1013 GREEN SNAKE FULL CROSS.mp4
-chroma/base_files/animations/A - 1013 GREEN SPINNING CROSSES.mp4
-chroma/base_files/animations/A - 1014 GREEN SNAKE FULL CROSS.mp4
-chroma/base_files/animations/A - 111 HERMES GREEN.mp4
-chroma/base_files/animations/A - 112 HERMES GOLDER.mp4
-chroma/base_files/animations/A - 121 DNA.mp4
-chroma/base_files/animations/A - 131 CROSS SPACE.mp4
-chroma/base_files/animations/A - 133 CROSS FALL.mp4
-chroma/base_files/animations/A - 137 CROSS HEART.mp4
-chroma/base_files/animations/A - 141 CERPENT CLIMB.mp4
-chroma/base_files/animations/A - 151 CAPSULES SPACE.mp4
-chroma/base_files/animations/A - 152 CAPSULES FULL.mp4
-chroma/base_files/animations/A - 155 CAPSULOSCOPIO.mp4
-chroma/base_files/animations/A - 161 GLASS PILLS.mp4
-chroma/base_files/animations/A - 171 WORDS SLIDE.mp4
-chroma/base_files/animations/A - 181 TETRIS.mp4
-chroma/base_files/animations/A - 185 FLOWER BLOSSOM.mp4
-chroma/base_files/animations/A - 195 PLANT GROWING.mp4
-chroma/base_files/animations/A - 251 EARTH.mp4
-chroma/base_files/animations/A - 301 ABSTRACT 1.mp4
-chroma/base_files/animations/A - 301 ABSTRACT 2.mp4
-chroma/base_files/animations/A - 301 ABSTRACT 3.mp4
-chroma/base_files/animations/A - 301 ABSTRACT 4.mp4
-chroma/base_files/animations/A - 401 INTER-APOTHEKE.mp4
-chroma/base_files/animations/A - 401 INTER-FARMACIA.mp4
-chroma/base_files/animations/A - 401 INTER-FARMAKEIO.mp4
-chroma/base_files/animations/A - 401 INTER-PHARMACY.mp4
-chroma/base_files/animations/A - 421 INTERFAR ZIPPER.mp4
-chroma/base_files/animations/A - 425 INTERFAR WORD.mp4
-chroma/base_files/animations/A - 501 MED DIAITHTIKA.mp4
-chroma/base_files/animations/A - 501 MED FITIKA KALLYNTIKA.mp4
-chroma/base_files/animations/A - 501 MED OMOIPATHITIKA.mp4
-chroma/base_files/animations/A - 501 MED ORTHOPEDIKA.mp4
-chroma/base_files/animations/A - 501 MED STOMATIKH YGIEINH.mp4
-chroma/base_files/animations/A - 501 MED VREFIKA.mp4
-chroma/base_files/animations/A - 511 MEDTYPE VIDEO 1.mp4
-chroma/base_files/animations/A - 611 NAME WAY 1.mp4
-chroma/base_files/animations/A - 711 CHRISTMAS 1.mp4
-chroma/base_files/animations/A - 712 CHRISTMAS 2.mp4
-chroma/base_files/animations/A - 811 EASTER 1.mp4
-chroma/base_files/animations/A - 812 EASTER 2.mp4
-chroma/base_files/animations/A - 911 GREEK FLAG 1.mp4
-chroma/base_files/animations/A - 990 GESY ANIMATION.mp4
-chroma/base_files/animations/C - date.mp4
-chroma/base_files/animations/C - temp.mp4
-chroma/base_files/animations/C - time.mp4
-chroma/base_files/animations/earthdtt.mp4
-chroma/base_files/animations/text_bg_1.mp4
-chroma/base_files/animations/text_bg_2.mp4
-chroma/base_files/animations/text_bg_3.mp4
-chroma/base_files/animations/text_bg_4.mp4
-chroma/base_files/animations/text_bg_5.mp4
-chroma/base_files/animations_strip/A - 1001 GREEN BLINKING CROSS.mp4
-chroma/base_files/animations_strip/A - 1002 SOLID GREEN CROSS.mp4
-chroma/base_files/animations_strip/A - 1010 SNAKE GREEN 3D.mp4
-chroma/base_files/animations_strip/A - 1011 GREEN SNAKE ROTATION.mp4
-chroma/base_files/animations_strip/A - 1012 GREEN SPINNING CROSSES.mp4
-chroma/base_files/animations_strip/A - 1013 GREEN SNAKE FULL CROSS.mp4
-chroma/base_files/animations_strip/A - 111 HERMES GREEN.mp4
-chroma/base_files/animations_strip/A - 112 HERMES GOLDER.mp4
-chroma/base_files/animations_strip/A - 121 DNA.mp4
-chroma/base_files/animations_strip/A - 131 CROSS SPACE.mp4
-chroma/base_files/animations_strip/A - 133 CROSS FALL.mp4
-chroma/base_files/animations_strip/A - 137 CROSS HEART.mp4
-chroma/base_files/animations_strip/A - 141 CERPENT CLIMB.mp4
-chroma/base_files/animations_strip/A - 151 CAPSULES SPACE.mp4
-chroma/base_files/animations_strip/A - 152 CAPSULES FULL.mp4
-chroma/base_files/animations_strip/A - 155 CAPSULOSCOPIO.mp4
-chroma/base_files/animations_strip/A - 161 GLASS PILLS.mp4
-chroma/base_files/animations_strip/A - 171 WORDS SLIDE.mp4
-chroma/base_files/animations_strip/A - 181 TETRIS.mp4
-chroma/base_files/animations_strip/A - 185 FLOWER BLOSSOM.mp4
-chroma/base_files/animations_strip/A - 195 PLANT GROWING.mp4
-chroma/base_files/animations_strip/A - 251 EARTH.mp4
-chroma/base_files/animations_strip/A - 301 ABSTRACT 1.mp4
-chroma/base_files/animations_strip/A - 301 ABSTRACT 2.mp4
-chroma/base_files/animations_strip/A - 301 ABSTRACT 3.mp4
-chroma/base_files/animations_strip/A - 301 ABSTRACT 4.mp4
-chroma/base_files/animations_strip/A - 401  INTER-FARMACIA.mp4
-chroma/base_files/animations_strip/A - 401  INTER-FARMAKEIO.mp4
-chroma/base_files/animations_strip/A - 401  INTER-PHARMACY.mp4
-chroma/base_files/animations_strip/A - 401 INTER-APOTHEKE.mp4
-chroma/base_files/animations_strip/A - 421 INTERFAR ZIPPER.mp4
-chroma/base_files/animations_strip/A - 425 INTERFAR WORD.mp4
-chroma/base_files/animations_strip/A - 501  MED ΦΥΤΙΚΑ ΚΑΛΛΥΝΤΙΚΑ.mp4
-chroma/base_files/animations_strip/A - 501 MED DIAITHTIKA.mp4
-chroma/base_files/animations_strip/A - 501 MED FITIKA KALLYNTIKA.mp4
-chroma/base_files/animations_strip/A - 501 MED ORTHOPEDIKA.mp4
-chroma/base_files/animations_strip/A - 501 MED STOMATIKH YGIEINH.mp4
-chroma/base_files/animations_strip/A - 501 MED VREFIKA.mp4
-chroma/base_files/animations_strip/A - 511 MEDTYPE VIDEO 1.mp4
-chroma/base_files/animations_strip/A - 611 NAME WAY 1.mp4
-chroma/base_files/animations_strip/A - 711 CHRISTMAS 1.mp4
-chroma/base_files/animations_strip/A - 712 CHRISTMAS 2.mp4
-chroma/base_files/animations_strip/A - 811 EASTER 1.mp4
-chroma/base_files/animations_strip/A - 812 EASTER 2.mp4
-chroma/base_files/animations_strip/A - 911 GREEK FLAG 1.mp4
-chroma/base_files/animations_strip/A - 990 GESY ANIMATION.mp4
-chroma/base_files/animations_strip/C - date.mp4
-chroma/base_files/animations_strip/C - temp.mp4
-chroma/base_files/animations_strip/C - time.mp4
-chroma/base_files/animations_strip/earthdtt.mp4
-chroma/base_files/animations_strip/temperature.mp4
-chroma/base_files/animations_strip/text_bg_1.mp4
-chroma/base_files/animations_strip/text_bg_2.mp4
-chroma/base_files/animations_strip/text_bg_3.mp4
-chroma/base_files/animations_strip/text_bg_4.mp4
-chroma/base_files/animations_strip/text_bg_5.mp4
-chroma/base_files/brands/Ahava.mp4
-chroma/base_files/brands/Apaisyl.mp4
-chroma/base_files/brands/Apivita.mp4
-chroma/base_files/brands/Avene.mp4
-chroma/base_files/brands/Avogel.mp4
-chroma/base_files/brands/Bacteflora.mp4
-chroma/base_files/brands/Bepanthol.mp4
-chroma/base_files/brands/bg1.mp4
-chroma/base_files/brands/bg2.mp4
-chroma/base_files/brands/bg3.mp4
-chroma/base_files/brands/Bioderma.mp4
-chroma/base_files/brands/BioOil.mp4
-chroma/base_files/brands/Caudalie.mp4
-chroma/base_files/brands/Centrum.mp4
-chroma/base_files/brands/cer8.mp4
-chroma/base_files/brands/Cerave.mp4
-chroma/base_files/brands/Chicco.mp4
-chroma/base_files/brands/Clinea.mp4
-chroma/base_files/brands/Corpolibero.mp4
-chroma/base_files/brands/Counterpain.mp4
-chroma/base_files/brands/Curaprox.mp4
-chroma/base_files/brands/DoctorsFormula.mp4
-chroma/base_files/brands/Duo.mp4
-chroma/base_files/brands/Durex.mp4
-chroma/base_files/brands/Eviol.mp4
-chroma/base_files/brands/FrezyDerm.mp4
-chroma/base_files/brands/Froika.mp4
-chroma/base_files/brands/Fyto.mp4
-chroma/base_files/brands/Galenic.mp4
-chroma/base_files/brands/Ganecom.mp4
-chroma/base_files/brands/Gehwol.mp4
-chroma/base_files/brands/Genecom.mp4
-chroma/base_files/brands/HealthAid.mp4
-chroma/base_files/brands/Helenvita.mp4
-chroma/base_files/brands/Hydrovit.mp4
-chroma/base_files/brands/InterMed.mp4
-chroma/base_files/brands/Korff.mp4
-chroma/base_files/brands/Korres.mp4
-chroma/base_files/brands/Labrada.mp4
-chroma/base_files/brands/Lamberts.mp4
-chroma/base_files/brands/Lanes.mp4
-chroma/base_files/brands/LaRochePosay.mp4
-chroma/base_files/brands/Lerbolario.mp4
-chroma/base_files/brands/Lerborario.mp4
-chroma/base_files/brands/Lierac.mp4
-chroma/base_files/brands/Mam.mp4
-chroma/base_files/brands/mfree.mp4
-chroma/base_files/brands/Mollers.mp4
-chroma/base_files/brands/NaturaSiberica.mp4
-chroma/base_files/brands/Nowfoods.mp4
-chroma/base_files/brands/Nuk.mp4
-chroma/base_files/brands/Nuxe.mp4
-chroma/base_files/brands/OnNurt.mp4
-chroma/base_files/brands/OnNutritions.mp4
-chroma/base_files/brands/Pharmalite.mp4
-chroma/base_files/brands/Pharmasept.mp4
-chroma/base_files/brands/Phas.mp4
-chroma/base_files/brands/Philips.mp4
-chroma/base_files/brands/Physiomer.mp4
-chroma/base_files/brands/Podia.mp4
-chroma/base_files/brands/PowerHealth.mp4
-chroma/base_files/brands/Purelogicol.mp4
-chroma/base_files/brands/Purina.mp4
-chroma/base_files/brands/Roc.mp4
-chroma/base_files/brands/Scholl.mp4
-chroma/base_files/brands/Solgar.mp4
-chroma/base_files/brands/Sostar.mp4
-chroma/base_files/brands/TolVelvet.mp4
-chroma/base_files/brands/Tonotil.mp4
-chroma/base_files/brands/unipharma.mp4
-chroma/base_files/brands/Uriage.mp4
-chroma/base_files/brands/Veet.mp4
-chroma/base_files/brands/Vichy.mp4
-chroma/base_files/brands/YouthLab.mp4
-chroma/base_files/brands/output/brands.mp4
-chroma/base_files/brands/output/output.mp4
-chroma/base_files/brands/output/backup/brands.mp4
-chroma/base_files/brands/output/backup/output.mp4
-chroma/base_files/brands_strip/Apaisyl.mp4
-chroma/base_files/brands_strip/Apivita.mp4
-chroma/base_files/brands_strip/Avene.mp4
-chroma/base_files/brands_strip/Avogel.mp4
-chroma/base_files/brands_strip/Bacteflora.mp4
-chroma/base_files/brands_strip/Bepanthol.mp4
-chroma/base_files/brands_strip/bg1.mp4
-chroma/base_files/brands_strip/bg2.mp4
-chroma/base_files/brands_strip/bg3.mp4
-chroma/base_files/brands_strip/BHydrovit.mp4
-chroma/base_files/brands_strip/BHydrovit_HWConvert.mp4
-chroma/base_files/brands_strip/bioderma.mp4
-chroma/base_files/brands_strip/BioOil.mp4
-chroma/base_files/brands_strip/BKorff.mp4
-chroma/base_files/brands_strip/BKorres.mp4
-chroma/base_files/brands_strip/caudalie.mp4
-chroma/base_files/brands_strip/Centrum.mp4
-chroma/base_files/brands_strip/cer8.mp4
-chroma/base_files/brands_strip/Chicco.mp4
-chroma/base_files/brands_strip/Corpolibero.mp4
-chroma/base_files/brands_strip/Counterpain.mp4
-chroma/base_files/brands_strip/DoctorsFormula.mp4
-chroma/base_files/brands_strip/Duo.mp4
-chroma/base_files/brands_strip/Durex.mp4
-chroma/base_files/brands_strip/Eviol.mp4
-chroma/base_files/brands_strip/FrezyDerm.mp4
-chroma/base_files/brands_strip/Froika.mp4
-chroma/base_files/brands_strip/Fyto.mp4
-chroma/base_files/brands_strip/galenic.mp4
-chroma/base_files/brands_strip/Genecom.mp4
-chroma/base_files/brands_strip/HealthAid.mp4
-chroma/base_files/brands_strip/Helenvita.mp4
-chroma/base_files/brands_strip/InterMed.mp4
-chroma/base_files/brands_strip/labrada.mp4
-chroma/base_files/brands_strip/Lamberts.mp4
-chroma/base_files/brands_strip/Lanes.mp4
-chroma/base_files/brands_strip/LaRochePosay.mp4
-chroma/base_files/brands_strip/Lerborario.mp4
-chroma/base_files/brands_strip/Lierac.mp4
-chroma/base_files/brands_strip/Mam.mp4
-chroma/base_files/brands_strip/mfree.mp4
-chroma/base_files/brands_strip/Mollers.mp4
-chroma/base_files/brands_strip/NaturaSiberica.mp4
-chroma/base_files/brands_strip/nowfoods.mp4
-chroma/base_files/brands_strip/Nuk.mp4
-chroma/base_files/brands_strip/Nuxe.mp4
-chroma/base_files/brands_strip/on.mp4
-chroma/base_files/brands_strip/OnNutritions.mp4
-chroma/base_files/brands_strip/pahrmasept.mp4
-chroma/base_files/brands_strip/Pharmalite.mp4
-chroma/base_files/brands_strip/Pharmasept.mp4
-chroma/base_files/brands_strip/Phas.mp4
-chroma/base_files/brands_strip/Philips.mp4
-chroma/base_files/brands_strip/Physiomer.mp4
-chroma/base_files/brands_strip/Podia.mp4
-chroma/base_files/brands_strip/PowerHealth.mp4
-chroma/base_files/brands_strip/Purelogicol.mp4
-chroma/base_files/brands_strip/Purina.mp4
-chroma/base_files/brands_strip/Roc.mp4
-chroma/base_files/brands_strip/Scholl.mp4
-chroma/base_files/brands_strip/Solgar.mp4
-chroma/base_files/brands_strip/Sostar.mp4
-chroma/base_files/brands_strip/TolVelvet.mp4
-chroma/base_files/brands_strip/Tonotil.mp4
-chroma/base_files/brands_strip/Uni-Pharma2.mp4
-chroma/base_files/brands_strip/uriage.mp4
-chroma/base_files/brands_strip/Veet.mp4
-chroma/base_files/brands_strip/Vichy.mp4
-chroma/base_files/brands_strip/YouthLab.mp4
-chroma/base_files/brands_strip/output/brands.mp4
-chroma/base_files/brands_strip/output/output.mp4
-chroma/base_files/brands_strip/output/backup/brands.mp4
-chroma/base_files/brands_strip/output/backup/output.mp4
-chroma/preview/animation/00_hermes_green.mp4
-chroma/preview/animation/01_hermes_gold.mp4
-chroma/preview/animation/02_DNA.mp4
-chroma/preview/animation/03_cross_space.mp4
-chroma/preview/animation/04_cross_fall.mp4
-chroma/preview/animation/05_hearts.mp4
-chroma/preview/animation/06_cerpent_climb.mp4
-chroma/preview/animation/07_capsules_space.mp4
-chroma/preview/animation/08_capsules_full.mp4
-chroma/preview/animation/09_capsuloscopio.mp4
-chroma/preview/animation/10_glass_pills.mp4
-chroma/preview/animation/11_words_slide.mp4
-chroma/preview/animation/12_tetris.mp4
-chroma/preview/animation/13_flower_blossom.mp4
-chroma/preview/animation/14_plant_growing.mp4
-chroma/preview/animation/15_earth.mp4
-chroma/preview/animation/16_abstract1.mp4
-chroma/preview/animation/17_abstract2.mp4
-chroma/preview/animation/18_abstract3.mp4
-chroma/preview/animation/19_abstract4.mp4
-chroma/preview/animation/20_inter_apotheke.mp4
-chroma/preview/animation/21_inter_farmacia.mp4
-chroma/preview/animation/22_inter_farmakeio.mp4
-chroma/preview/animation/23_inter_pharmacy.mp4
-chroma/preview/animation/24_interfar_zipper.mp4
-chroma/preview/animation/25_interfar_cross.mp4
-chroma/preview/animation/501_1_med_omoiopathitika.mp4
-chroma/preview/animation/501_2_med_diaititika.mp4
-chroma/preview/animation/501_3_med_orthopedika.mp4
-chroma/preview/animation/501_4_med_fitika_kallintika.mp4
-chroma/preview/animation/501_5_med_ygieini.mp4
-chroma/preview/animation/501_6_med_vrefika.mp4
-chroma/preview/animation/501_7_medtype_video_1.mp4
-chroma/preview/animation/611_name_way.mp4
-chroma/preview/animation/711_christmas1.mp4
-chroma/preview/animation/712_christmas2.mp4
-chroma/preview/animation/811_easter1.mp4
-chroma/preview/animation/812_easter2.mp4
-chroma/preview/animation/911_greekFlag1.mp4
-chroma/preview/animation/990_gesy.mp4
-chroma/preview/animation/9990_blinking_cross.mp4
-chroma/preview/animation/9991_solid_green.mp4
-chroma/preview/animation/9995_snake_3d.mp4
-chroma/preview/animation/9996_snake_rotation.mp4
-chroma/preview/animation/9997_spinning_crosses.mp4
-chroma/preview/animation/9998_snake_full_cross.mp4
-chroma/preview/animation/default.mp4
-chroma/preview/brands/brands_bg_1.mp4
-chroma/preview/brands/brands_bg_1a.mp4
-chroma/preview/brands/brands_bg_2.mp4
-chroma/preview/brands/brands_bg_2a.mp4
-chroma/preview/brands/brands_bg_3.mp4
-chroma/preview/brands/brands_bg_3a.mp4
-chroma/preview/DTT/DTT_bg1.mp4
-chroma/preview/DTT/DTT_bg2.mp4
-chroma/preview/DTT/DTT_nobg.mp4
-chroma/preview/text/textbg1.mp4
-chroma/preview/text/textbg2.mp4
-chroma/preview/text/textbg3.mp4
-chroma/preview/text/textbg4.mp4
-green/base_files/animations/A - 101 LINES 1.mp4
-green/base_files/animations/A - 102 LINES 2.mp4
-green/base_files/animations/A - 103 LINE CROSS.mp4
-green/base_files/animations/A - 104 ITALIAN CROSS.mp4
-green/base_files/animations/A - 151 IN OUT CROSS.mp4
-green/base_files/animations/A - 201 WAVE.mp4
-green/base_files/animations/A - 202 ROMVOS.mp4
-green/base_files/animations/A - 203 CORNER.mp4
-green/base_files/animations/A - 204 MEANDROS.mp4
-green/base_files/animations/A - 205 CHESS.mp4
-green/base_files/animations/A - 206 HEART.mp4
-green/base_files/animations/A - 301 MORTAR.mp4
-green/base_files/animations/A - 302 MAD CROSS.mp4
-green/base_files/animations/A - 401 INTERPHARM.mp4
-green/base_files/animations/A - 402 WORDS.mp4
-green/base_files/animations/A - 501 BLINKING CROSS.mp4
-green/base_files/animations/A - 502  SOLID GREEN CROSS.mp4
-green/base_files/animations/A - 502 SOLID GREEN CROSS.mp4
-green/base_files/animations/A - 801  SNAKE 3D.mp4
-green/base_files/animations/A - 801 SNAKE 3D.mp4
-green/base_files/animations/A - 802 SNAKE ROTATION.mp4
-green/base_files/animations/A - 803 SPINNING CROSSES.mp4
-green/base_files/animations/A - 804 SNAKE FULL CROSS.mp4
-green/base_files/animations/A - 901 XMAS.mp4
-green/base_files/animations/A - 902 XMAS.mp4
-green/base_files/animations/A - 990 GESY ANIMATION.mp4
-green/base_files/animations/Comp 1.mp4
-green/base_files/animations/spinning crosses.mp4
-green/base_files/animations/spinning crosses2.mp4
-green/base_files/animations/spinning_crosses.mp4
-green/base_files/animations/backup/text_bg_0.mp4
-green/base_files/animations_strip/A - 101 LINES 1.mp4
-green/base_files/animations_strip/A - 102 LINES 2.mp4
-green/base_files/animations_strip/A - 103 LINE CROSS.mp4
-green/base_files/animations_strip/A - 104 ITALIAN CROSS.mp4
-green/base_files/animations_strip/A - 151 IN OUT CROSS.mp4
-green/base_files/animations_strip/A - 201 WAVE.mp4
-green/base_files/animations_strip/A - 202 ROMVOS.mp4
-green/base_files/animations_strip/A - 203 CORNER.mp4
-green/base_files/animations_strip/A - 204 MEANDROS.mp4
-green/base_files/animations_strip/A - 205 CHESS.mp4
-green/base_files/animations_strip/A - 206 HEART.mp4
-green/base_files/animations_strip/A - 301 MORTAR.mp4
-green/base_files/animations_strip/A - 302 MAD CROSS.mp4
-green/base_files/animations_strip/A - 401 INTERPHARM.mp4
-green/base_files/animations_strip/A - 402 WORDS.mp4
-green/base_files/animations_strip/A - 501 BLINKING CROSS.mp4
-green/base_files/animations_strip/A - 502 SOLID GREEN CROSS.mp4
-green/base_files/animations_strip/A - 801 SNAKE 3D.mp4
-green/base_files/animations_strip/A - 802 SNAKE ROTATION.mp4
-green/base_files/animations_strip/A - 803 SPINNING CROSSES.mp4
-green/base_files/animations_strip/A - 804 SNAKE FULL CROSS.mp4
-green/base_files/animations_strip/A - 901 XMAS.mp4
-green/base_files/animations_strip/A - 902 XMAS.mp4
-green/base_files/animations_strip/A - 990 GESY ANIMATION.mp4
-green/base_files/animations_strip/spinning crosses.mp4
-green/base_files/animations_strip/spinning crosses2.mp4
-green/base_files/animations_strip/spinning_crosses.mp4
-green/base_files/animations_strip/backup/text_bg_0.mp4
-green/base_files/brands/Agpharm.mp4
-green/base_files/brands/Ahava.mp4
-green/base_files/brands/Apaisyl.mp4
-green/base_files/brands/Apivita.mp4
-green/base_files/brands/Avene.mp4
-green/base_files/brands/Avogel.mp4
-green/base_files/brands/Bepanthol.mp4
-green/base_files/brands/Bioderma.mp4
-green/base_files/brands/BioOil.mp4
-green/base_files/brands/Cer8.mp4
-green/base_files/brands/Cerave.mp4
-green/base_files/brands/Chicco.mp4
-green/base_files/brands/Clinea.mp4
-green/base_files/brands/Counterpain.mp4
-green/base_files/brands/Curaprox.mp4
-green/base_files/brands/Doctors Formula.mp4
-green/base_files/brands/Duo.mp4
-green/base_files/brands/Durex.mp4
-green/base_files/brands/Eviol.mp4
-green/base_files/brands/Fitoplus.mp4
-green/base_files/brands/Frezyderm.mp4
-green/base_files/brands/Fyto.mp4
-green/base_files/brands/Gehwol.mp4
-green/base_files/brands/Genecom.mp4
-green/base_files/brands/HealthAid.mp4
-green/base_files/brands/Helenvita.mp4
-green/base_files/brands/Hydrovit.mp4
-green/base_files/brands/Intermed.mp4
-green/base_files/brands/Klorane.mp4
-green/base_files/brands/Korff.mp4
-green/base_files/brands/Korres.mp4
-green/base_files/brands/Labrada.mp4
-green/base_files/brands/Lamberts.mp4
-green/base_files/brands/Lanes.mp4
-green/base_files/brands/LaRochePosay.mp4
-green/base_files/brands/Lerbolario.mp4
-green/base_files/brands/Lierac.mp4
-green/base_files/brands/mam.mp4
-green/base_files/brands/Mfree.mp4
-green/base_files/brands/Mollers.mp4
-green/base_files/brands/Natura Siberica.mp4
-green/base_files/brands/Now Foods.mp4
-green/base_files/brands/Nuk.mp4
-green/base_files/brands/Nuxe.mp4
-green/base_files/brands/On Nutritions.mp4
-green/base_files/brands/Pharmasept.mp4
-green/base_files/brands/Phas.mp4
-green/base_files/brands/Philips.mp4
-green/base_files/brands/Physiomer.mp4
-green/base_files/brands/Podia.mp4
-green/base_files/brands/PowerHealth.mp4
-green/base_files/brands/Purelogicol.mp4
-green/base_files/brands/Purina.mp4
-green/base_files/brands/Roc.mp4
-green/base_files/brands/Scholl.mp4
-green/base_files/brands/Solgar.mp4
-green/base_files/brands/Sostar.mp4
-green/base_files/brands/spinning_crosses.mp4
-green/base_files/brands/Tol Velvet.mp4
-green/base_files/brands/Tonotil.mp4
-green/base_files/brands/Unipharma.mp4
-green/base_files/brands/Uriage.mp4
-green/base_files/brands/Veet.mp4
-green/base_files/brands/Verset.mp4
-green/base_files/brands/Vichy.mp4
-green/base_files/brands/Youth Lab.mp4
-green/base_files/brands/output/brands.mp4
-green/base_files/brands/output/output.mp4
-green/base_files/brands/output/backup/brands.mp4
-green/base_files/brands/output/backup/output.mp4
-green/base_files/brands_strip/Agpharm.mp4
-green/base_files/brands_strip/ahava.mp4
-green/base_files/brands_strip/Apaisyl.mp4
-green/base_files/brands_strip/Apivita.mp4
-green/base_files/brands_strip/Avene.mp4
-green/base_files/brands_strip/Avogel.mp4
-green/base_files/brands_strip/Bepanthol.mp4
-green/base_files/brands_strip/bg1.mp4
-green/base_files/brands_strip/Bioderma.mp4
-green/base_files/brands_strip/BioOil.mp4
-green/base_files/brands_strip/Cer8.mp4
-green/base_files/brands_strip/Cerave.mp4
-green/base_files/brands_strip/Chicco.mp4
-green/base_files/brands_strip/Clinea.mp4
-green/base_files/brands_strip/Counterpain.mp4
-green/base_files/brands_strip/Curaprox.mp4
-green/base_files/brands_strip/Doctors Formula.mp4
-green/base_files/brands_strip/DUO.mp4
-green/base_files/brands_strip/Durex.mp4
-green/base_files/brands_strip/Eviol.mp4
-green/base_files/brands_strip/Fitoplus.mp4
-green/base_files/brands_strip/Frezyderm.mp4
-green/base_files/brands_strip/Fyto.mp4
-green/base_files/brands_strip/Gehwol.mp4
-green/base_files/brands_strip/Genecom.mp4
-green/base_files/brands_strip/HealthAid.mp4
-green/base_files/brands_strip/Helenvita.mp4
-green/base_files/brands_strip/Hydrovit.mp4
-green/base_files/brands_strip/Intermed.mp4
-green/base_files/brands_strip/Klorane.mp4
-green/base_files/brands_strip/Korff.mp4
-green/base_files/brands_strip/Korres.mp4
-green/base_files/brands_strip/Labrada.mp4
-green/base_files/brands_strip/Lamberts.mp4
-green/base_files/brands_strip/Lanes.mp4
-green/base_files/brands_strip/LaRochePosay.mp4
-green/base_files/brands_strip/Lerbolario.mp4
-green/base_files/brands_strip/Lierac.mp4
-green/base_files/brands_strip/mam.mp4
-green/base_files/brands_strip/Mfree.mp4
-green/base_files/brands_strip/Mollers.mp4
-green/base_files/brands_strip/Natura Siberica.mp4
-green/base_files/brands_strip/NowFoods.mp4
-green/base_files/brands_strip/Nuk.mp4
-green/base_files/brands_strip/NUXE.mp4
-green/base_files/brands_strip/On Nutritions.mp4
-green/base_files/brands_strip/Pharmasept.mp4
-green/base_files/brands_strip/Phas.mp4
-green/base_files/brands_strip/Philips.mp4
-green/base_files/brands_strip/Physiomer.mp4
-green/base_files/brands_strip/Podia.mp4
-green/base_files/brands_strip/PowerHealth.mp4
-green/base_files/brands_strip/Purelogicol.mp4
-green/base_files/brands_strip/Purina.mp4
-green/base_files/brands_strip/Roc.mp4
-green/base_files/brands_strip/Scholl.mp4
-green/base_files/brands_strip/Solgar.mp4
-green/base_files/brands_strip/Sostar.mp4
-green/base_files/brands_strip/spinning_crosses.mp4
-green/base_files/brands_strip/Tol Velvet.mp4
-green/base_files/brands_strip/Tonotil.mp4
-green/base_files/brands_strip/Unipharma.mp4
-green/base_files/brands_strip/Uriage.mp4
-green/base_files/brands_strip/Veet.mp4
-green/base_files/brands_strip/Verset.mp4
-green/base_files/brands_strip/Vichy.mp4
-green/base_files/brands_strip/Youth Lab.mp4
-green/base_files/brands_strip/output/brands.mp4
-green/base_files/brands_strip/output/output.mp4
-green/base_files/brands_strip/output/backup/brands.mp4
-green/base_files/brands_strip/output/backup/output.mp4
-green/preview/animation/101 lines 1.mp4
-green/preview/animation/102_lines_2.mp4
-green/preview/animation/103_lines_cross.mp4
-green/preview/animation/104_italian_cross.mp4
-green/preview/animation/151_in_out_cross.mp4
-green/preview/animation/201_wave.mp4
-green/preview/animation/202_romvos.mp4
-green/preview/animation/203_corner.mp4
-green/preview/animation/204_maiandros.mp4
-green/preview/animation/205_chess.mp4
-green/preview/animation/206_heart.mp4
-green/preview/animation/301_mortar.mp4
-green/preview/animation/302_mad_cross.mp4
-green/preview/animation/401_interpharm.mp4
-green/preview/animation/402_words.mp4
-green/preview/animation/501_blinking_cross.mp4
-green/preview/animation/502_solid_green.mp4
-green/preview/animation/801_snake_3d.mp4
-green/preview/animation/802_snake_rotation.mp4
-green/preview/animation/803_spinning_crosses.mp4
-green/preview/animation/804_snake_full_cross.mp4
-green/preview/animation/901_xmas_1.mp4
-green/preview/animation/902_xmas_2.mp4
-green/preview/animation/990_gesi.mp4
-green/preview/animation/999_nameway.mp4
-green/preview/animation/default.mp4
-green/preview/brands/agpharm.mp4
-green/preview/brands/Ahava.mp4
-green/preview/brands/apaisyl.mp4
-green/preview/brands/apivita.mp4
-green/preview/brands/avene.mp4
-green/preview/brands/avogel.mp4
-green/preview/brands/bepanthol.mp4
-green/preview/brands/bioderma.mp4
-green/preview/brands/biooil.mp4
-green/preview/brands/cer8.mp4
-green/preview/brands/Cerave.mp4
-green/preview/brands/chicco.mp4
-green/preview/brands/Clinea.mp4
-green/preview/brands/Counterpain.mp4
-green/preview/brands/curaprox.mp4
-green/preview/brands/Doctors Formula.mp4
-green/preview/brands/Duo.mp4
-green/preview/brands/Durex.mp4
-green/preview/brands/eviol.mp4
-green/preview/brands/fitoplus.mp4
-green/preview/brands/frezyderm.mp4
-green/preview/brands/Fyto.mp4
-green/preview/brands/gehwol.mp4
-green/preview/brands/Genecom.mp4
-green/preview/brands/healthaid.mp4
-green/preview/brands/Helenvita.mp4
-green/preview/brands/hydrovit.mp4
-green/preview/brands/intermed.mp4
-green/preview/brands/klorane.mp4
-green/preview/brands/korff.mp4
-green/preview/brands/korres.mp4
-green/preview/brands/Labrada.mp4
-green/preview/brands/lamberts.mp4
-green/preview/brands/lanes.mp4
-green/preview/brands/larocheposay.mp4
-green/preview/brands/lerborario.mp4
-green/preview/brands/lierac.mp4
-green/preview/brands/mam.mp4
-green/preview/brands/mfree.mp4
-green/preview/brands/Mollers.mp4
-green/preview/brands/Natura Siberica.mp4
-green/preview/brands/Now Foods.mp4
-green/preview/brands/nuk.mp4
-green/preview/brands/nuxe.mp4
-green/preview/brands/On Nutritions.mp4
-green/preview/brands/pharmasept.mp4
-green/preview/brands/Phas.mp4
-green/preview/brands/philips.mp4
-green/preview/brands/Physiomer.mp4
-green/preview/brands/podia.mp4
-green/preview/brands/powerhealth.mp4
-green/preview/brands/Purelogicol.mp4
-green/preview/brands/purina.mp4
-green/preview/brands/roc.mp4
-green/preview/brands/scholl.mp4
-green/preview/brands/solgar.mp4
-green/preview/brands/sostar.mp4
-green/preview/brands/Tol Velvet.mp4
-green/preview/brands/Tonotil.mp4
-green/preview/brands/unipharma.mp4
-green/preview/brands/Uriage.mp4
-green/preview/brands/Veet.mp4
-green/preview/brands/verset.mp4
-green/preview/brands/vichy.mp4
-green/preview/brands/Youth Lab.mp4
-green/preview/dtt/date.mp4
-green/preview/dtt/temp.mp4
-green/preview/dtt/time.mp4
+chroma/base_files/animations/A - 1001 GREEN BLINKING CROSS.mp4|fe8a3788a4caa9becb690068e9f85f7920fa151f9c266330990e55d84d047339
+chroma/base_files/animations/A - 1002 SOLID GREEN CROSS.mp4|fc4a54f22bbd0d3bbebb3df0380b11d402af5a4b1adab3a4b2fdda82e432be7c
+chroma/base_files/animations/A - 1010 SNAKE GREEN 3D.mp4|26df3c319519176f966ea49d2c8c237ce509a9d86e9e00204abf269721fb69d3
+chroma/base_files/animations/A - 1011 GREEN SNAKE ROTATION.mp4|5f3db15b7b5fac290eec2f66ddd3de8803943e71dca6a1d384f5b2cc4c0bd519
+chroma/base_files/animations/A - 1012 GREEN SPINNING CROSSES.mp4|93b4e691ddd522fd10d63ac49234d1ef61405f211181f00dae115824df9a633e
+chroma/base_files/animations/A - 1013 GREEN SNAKE FULL CROSS.mp4|6d92b1c403a98893bd53113f960f5bcee44ceaa707bbc123a58e5d3697bd5894
+chroma/base_files/animations/A - 1013 GREEN SPINNING CROSSES.mp4|d22aa849f2e20ac7c2c57a670e7798369fd097f6a64c7ade7017ba5681fc59d8
+chroma/base_files/animations/A - 1014 GREEN SNAKE FULL CROSS.mp4|8ea1ff4df94fe85e2899af5f59849d82ac5ad96ee0e71a239b510ea0c3c38301
+chroma/base_files/animations/A - 111 HERMES GREEN.mp4|89527164cd7d2d8e2dba96f16a31fb2c2660adfd24cdec6ff5c4f5330865ffbf
+chroma/base_files/animations/A - 112 HERMES GOLDER.mp4|bde7725315dde6fe25dc12d836a29605551ab0ece07dd7a7f5ec2b7513071066
+chroma/base_files/animations/A - 121 DNA.mp4|0e44fa281870a99d6ab52a958563b3264532e41ddb221a42434329a014ad42ca
+chroma/base_files/animations/A - 131 CROSS SPACE.mp4|6fbfc094c0fc5c961b9ad758a3145693080dce79a56a4b36914a8a18fe83bfdc
+chroma/base_files/animations/A - 133 CROSS FALL.mp4|937afae566ea4df63491da5a5769c75929ae47851786e2cda900efca53e5ed1e
+chroma/base_files/animations/A - 137 CROSS HEART.mp4|a819138c46885a7fc991e8f2185709996a3b0121d88f7595217ba323d6f2038c
+chroma/base_files/animations/A - 141 CERPENT CLIMB.mp4|33fe32259edb6254e7b682442b55f1ce6c308fb40d6ca83ca4b500d13823b93d
+chroma/base_files/animations/A - 151 CAPSULES SPACE.mp4|e4e1ecb75f14f78790970725a481915da0be71eb61abb30472eb247c0e3c5c2a
+chroma/base_files/animations/A - 152 CAPSULES FULL.mp4|dd9ff41dbc688eb7f09ed5b5cad81d34846a18dbc8d846915180967bd893e32a
+chroma/base_files/animations/A - 155 CAPSULOSCOPIO.mp4|d7d8389635797aadd804719f14209bcda09bbac75efc319e83327841b2ef87a7
+chroma/base_files/animations/A - 161 GLASS PILLS.mp4|e921f94d8c274abb1fc413a03cf0c390a2dfd1c017837b0c25c8f62089f74484
+chroma/base_files/animations/A - 171 WORDS SLIDE.mp4|5745056c03e8c370f9304f273ca2730d8e0bc86f40bfff10f3a85ef5886bc89c
+chroma/base_files/animations/A - 181 TETRIS.mp4|0115a6975bd12357cda906d5e1ac796f4fe80cd3a3aeb0c5b05192619fbcdb93
+chroma/base_files/animations/A - 185 FLOWER BLOSSOM.mp4|af84a757c6a2416db1b69ab7354bc05334fbd1d43af390e891335352c267830f
+chroma/base_files/animations/A - 195 PLANT GROWING.mp4|93d3401394badc0029f5fb8531c7da77d55f98b9bd7df2c9275408a60c2fec0e
+chroma/base_files/animations/A - 251 EARTH.mp4|680996ceb259689e5eaa6200d8954a86a29d1efe44624ab5113339f9dddfd70c
+chroma/base_files/animations/A - 301 ABSTRACT 1.mp4|9ef82fe53d6943f7a8b12b8ae6453e8221a9348d85d52edd5d1de2503707e10f
+chroma/base_files/animations/A - 301 ABSTRACT 2.mp4|9c95b902b5050380d750e482c79914746544bce528cb87b4ac2bc42bec61228b
+chroma/base_files/animations/A - 301 ABSTRACT 3.mp4|5d7fc7f0bf4eeb996039147fd5a619c9c667dd1c18d14204f566dc26bda112ad
+chroma/base_files/animations/A - 301 ABSTRACT 4.mp4|2491c78e9ed93c68faa83331cb7d3e643a522541187a5834ce0ce6b25bff6cd3
+chroma/base_files/animations/A - 401 INTER-APOTHEKE.mp4|c55871c07785e06301be40ca6606149f6cb814b3f4e5f9c93ee801cc27ef1cec
+chroma/base_files/animations/A - 401 INTER-FARMACIA.mp4|5e19a6e2c70fecc4d97353396076c998e299a321c3d52178ac8b7348a9458410
+chroma/base_files/animations/A - 401 INTER-FARMAKEIO.mp4|4500f101a40393dca3d83104d92ee24331dd1d6bcac1093e9998e52064461e4a
+chroma/base_files/animations/A - 401 INTER-PHARMACY.mp4|da6f2a6e936bd0928ece9d010ef13eceb9b2450b50400176f3a4ab9a8c4a3d8c
+chroma/base_files/animations/A - 421 INTERFAR ZIPPER.mp4|d5fa8b6e83cd35b942c7a79779b086bf193b7ddcd1360011e3b498db1fdffd77
+chroma/base_files/animations/A - 425 INTERFAR WORD.mp4|fc5c36042836314705c8cd0a1c2fa01d6c39dedc5e8f2e0d6316e8b291d5a935
+chroma/base_files/animations/A - 501 MED DIAITHTIKA.mp4|adfd1b136b982740b6e957d1fdce931f1a871c263382c8db0ba2235281c47a12
+chroma/base_files/animations/A - 501 MED FITIKA KALLYNTIKA.mp4|c7c6c2a308f08c468927c7fc3bb21cf41243832e8fb8dad5d226b1a5f887d0d7
+chroma/base_files/animations/A - 501 MED OMOIPATHITIKA.mp4|c74f9677730da701447b027e2a500bca8172567279ce3d61ad1ccc416b3c2ab4
+chroma/base_files/animations/A - 501 MED ORTHOPEDIKA.mp4|c809944469fbbc8db7e3b1f51e7d9867fe033a27b2c2e054103f8575832f2640
+chroma/base_files/animations/A - 501 MED STOMATIKH YGIEINH.mp4|4b78ce93017e53edf1768476ab8b0393984878588fcf1b7484990b5048345923
+chroma/base_files/animations/A - 501 MED VREFIKA.mp4|d135ed8fa60f092c48dcb395930261996db26a4db89128727f4b9f43c7700f6c
+chroma/base_files/animations/A - 511 MEDTYPE VIDEO 1.mp4|723a08e7eee285550db88973b4f57d796e755b4b739627652b7d02095173d2a1
+chroma/base_files/animations/A - 611 NAME WAY 1.mp4|a302bcb9e0b057a5ea82f7e668c75e9d97bd756ff52583b4b5093b9b1ca817cf
+chroma/base_files/animations/A - 711 CHRISTMAS 1.mp4|9579f98a88703a54992f1cc03dd6f6580a2959dea4285171cecc68cb335e5bcc
+chroma/base_files/animations/A - 712 CHRISTMAS 2.mp4|b368f7048aaf8079dcb00b30933b46034af4705ad2d298d3d1d063d8292a88b5
+chroma/base_files/animations/A - 811 EASTER 1.mp4|174824fa47ae8c3786436773b69df3e66db029618865ba52730f7dd34be477e0
+chroma/base_files/animations/A - 812 EASTER 2.mp4|6d58a4beae0210fda2e1658825a53634e5843e9363b1fa2bb01aff7c87667ca0
+chroma/base_files/animations/A - 911 GREEK FLAG 1.mp4|6049a47bce7efd843eb8caa1a9eba180f4fcdb2e881e546e641795b2574e8eae
+chroma/base_files/animations/A - 990 GESY ANIMATION.mp4|163589a679748c802b7b1e9c0a9e84eff60c32677caef7646848398ed328b60d
+chroma/base_files/animations/C - date.mp4|9c111b8ab704e8cac5662939c1c58c0998d2c0e552e88be7042a10caaaa32e66
+chroma/base_files/animations/C - temp.mp4|3ae3e792d8c6636e273b797999ad603fbd3e4285c44c1b00d319421fc3244527
+chroma/base_files/animations/C - time.mp4|c5128e185c6e15218e6104f0dd92d4589612c730bba914de2de30414a33f9886
+chroma/base_files/animations/earthdtt.mp4|a72823cac38136a31dff723fae4b147120699e96c1a217731f663b1ed23c7c81
+chroma/base_files/animations/text_bg_1.mp4|75bae27979d60140cbc3ba63356ce13bf2a5e7d9fe2a4827caf98abf12700957
+chroma/base_files/animations/text_bg_2.mp4|86e4165f8825e0c98a37bf537f85252c1b869a3f481291fe146a9d4b8b3c6fd7
+chroma/base_files/animations/text_bg_3.mp4|1e3fd5c185dfba79a9cd5a6ec7bb072fcf957a17520ed57e6ac36fd04ea7df80
+chroma/base_files/animations/text_bg_4.mp4|539896d8baaf0b2973e72602a3cdde594f073a89f46a35228005178ee0bb8111
+chroma/base_files/animations/text_bg_5.mp4|bb9b20db604281ce0fa050425ab8134d5e8fe21198698b0de65ff01ab62d9d51
+chroma/base_files/animations_strip/A - 1001 GREEN BLINKING CROSS.mp4|1a93c223e0f045dd3d1094a32873ca38bcf04d53823d205203c64ff8a6557172
+chroma/base_files/animations_strip/A - 1002 SOLID GREEN CROSS.mp4|cb45374cd83222a5ef7a41b7b0478eddcd8ef8933071df855e047dc323680d2f
+chroma/base_files/animations_strip/A - 1010 SNAKE GREEN 3D.mp4|7c1b82ba04e817e4ca5ca6f11c89415a74274d1457873a97d95d4d669b65c43a
+chroma/base_files/animations_strip/A - 1011 GREEN SNAKE ROTATION.mp4|559f08555882a33acc1ed395884c7a0bb6bfc4b976064f2b1964434107076ed7
+chroma/base_files/animations_strip/A - 1012 GREEN SPINNING CROSSES.mp4|16b9002d5323730e9d1b0ce89a821bf50e61065cb7e2c4ff59556537e5ddfe8d
+chroma/base_files/animations_strip/A - 1013 GREEN SNAKE FULL CROSS.mp4|fd81b11d72ad811a52e32cb8c4f1354d6af910cecaf0aae7972a632936c6adf1
+chroma/base_files/animations_strip/A - 111 HERMES GREEN.mp4|8eca58504e024f9b38d352abe8112fe5120ba4cd00821bcbd8f7536fd8c40c89
+chroma/base_files/animations_strip/A - 112 HERMES GOLDER.mp4|5dcf34d743ea6ca32216a4b7ad2564f95f421cb202d002dcb7ded7881602ff7f
+chroma/base_files/animations_strip/A - 121 DNA.mp4|107e843699b98721d60264dcd73894e2457e1e1d9750494c966fe13141b253aa
+chroma/base_files/animations_strip/A - 131 CROSS SPACE.mp4|a2bc8abd85bf92ebda019c5d5c3a625466b016687fde79b7472a5d7de180cbb6
+chroma/base_files/animations_strip/A - 133 CROSS FALL.mp4|c47e02d8be8438c90f3c6725e78d40b5ccc30f9cfd53da88f2cedf8630bc53e1
+chroma/base_files/animations_strip/A - 137 CROSS HEART.mp4|078b7f329b3e4b1b69ce4e249455e714234244fc3f856e42bb9ae33e52169365
+chroma/base_files/animations_strip/A - 141 CERPENT CLIMB.mp4|dd595d43db52c937df0a4778f81f7bdbf1fa0b2202dda604a2c30dda6fc56637
+chroma/base_files/animations_strip/A - 151 CAPSULES SPACE.mp4|ac485ccef92a630e363879112a4f748c486c78a24a76315ae0687abede31efab
+chroma/base_files/animations_strip/A - 152 CAPSULES FULL.mp4|786e57c22cb41745b3e2a0fa083f6655ee8a5e6249b8855b4746a5ac693178bd
+chroma/base_files/animations_strip/A - 155 CAPSULOSCOPIO.mp4|901c6d2674ee9cd556066022a0c30f54f6b5fd9d8c7d48d1b49b0eb3c17b8279
+chroma/base_files/animations_strip/A - 161 GLASS PILLS.mp4|cef95cf83833e2ce0a3385e242a3429079ed0e1a227cec95a5f8a9020218b2ac
+chroma/base_files/animations_strip/A - 171 WORDS SLIDE.mp4|497c1cca660d162d677125f0bfbeeb80e964be695ddaab149c52e8d6b846c29b
+chroma/base_files/animations_strip/A - 181 TETRIS.mp4|2905a5fe9c9d1811b5b852d3e1668b5761947b43b2b4c2786f698a8d48547271
+chroma/base_files/animations_strip/A - 185 FLOWER BLOSSOM.mp4|7900ed2cf617ac7b928387bae7218e55024ab2fc4bce5b935eddef34667a986b
+chroma/base_files/animations_strip/A - 195 PLANT GROWING.mp4|1c1f246e43207ba66e1b2bf03a89847771d9fe863894bfe4718afc36b180668b
+chroma/base_files/animations_strip/A - 251 EARTH.mp4|3fe1265457aa53a0770b230e763ba2a05306c495a06dc14a4ad32c629c992f45
+chroma/base_files/animations_strip/A - 301 ABSTRACT 1.mp4|24622e4981d3a8c08fa7ed6f520ebdae24ab8e8fe7313793484e6d39ee75b5da
+chroma/base_files/animations_strip/A - 301 ABSTRACT 2.mp4|2dbb3980aaf7ec15a4157290e352e7f0974849776b976e829b8f51775cdb1b65
+chroma/base_files/animations_strip/A - 301 ABSTRACT 3.mp4|1f6cf83c9761825c7331faff2e31c69561b13abd6809830c97977801a67c4436
+chroma/base_files/animations_strip/A - 301 ABSTRACT 4.mp4|13eee2a16441130d65ead989cfa20dac56301ae5d3109ec99f25558ea39ff731
+chroma/base_files/animations_strip/A - 401  INTER-FARMACIA.mp4|9ed8848b0224e558b1220935e789ea1170b6c808c11430873096e2319e45867a
+chroma/base_files/animations_strip/A - 401  INTER-FARMAKEIO.mp4|d6076fc221d2aa0c8433cf03ac9d6bc38cbe78637cc29ab6fb28ab7b382344c5
+chroma/base_files/animations_strip/A - 401  INTER-PHARMACY.mp4|f3316f8307241b7820ef75cf9c96a1175a25b8d30f99a075db2f1300cac5e115
+chroma/base_files/animations_strip/A - 401 INTER-APOTHEKE.mp4|f5b6b7d0e4a351820a96e8c09f2a4f2a84700e7f6e1403c964960946a6048d77
+chroma/base_files/animations_strip/A - 421 INTERFAR ZIPPER.mp4|454831aa89cf53aecda5b00d88f6279ae9ffc7f43abc03f2c83cda70fe6f4e40
+chroma/base_files/animations_strip/A - 425 INTERFAR WORD.mp4|fb23fd36f55687c1dd2fd62d07a380e229e6fff8d57b9fe29bd687e350ffb132
+chroma/base_files/animations_strip/A - 501  MED ΦΥΤΙΚΑ ΚΑΛΛΥΝΤΙΚΑ.mp4|374d6deb8834230cb0e98ab36bc6c4bfdfc1424278654fcd223514c96e4dc390
+chroma/base_files/animations_strip/A - 501 MED DIAITHTIKA.mp4|fb9b79331fadbceeaed141573f20bdf3874799bf0b50e35cd7506f45f65b9a6c
+chroma/base_files/animations_strip/A - 501 MED FITIKA KALLYNTIKA.mp4|3754ecd5a74f24a58b60080f9010822f1fd244d489ded8e523037c7dac5290a7
+chroma/base_files/animations_strip/A - 501 MED ORTHOPEDIKA.mp4|dd128da2456a583a0fa2f571b7da61c8d4d53248d31044ddbbd8b11aa7458b9c
+chroma/base_files/animations_strip/A - 501 MED STOMATIKH YGIEINH.mp4|65a1c1a13a106e73d515de1db880c3cbe9823bf74a591a679391f91402c0342b
+chroma/base_files/animations_strip/A - 501 MED VREFIKA.mp4|240c35096d5672327e5a5ff824b14fda9cadcf724a1cfbf799685a414151eda2
+chroma/base_files/animations_strip/A - 511 MEDTYPE VIDEO 1.mp4|21998c6abbe8ee3845f13b9eb77c026a86b6e245c0fb4883f44dec2e63cdff0c
+chroma/base_files/animations_strip/A - 611 NAME WAY 1.mp4|5bbde09114024184567b4f819f3a910ef1dddcccc7339d01e3d003c3832fd6b4
+chroma/base_files/animations_strip/A - 711 CHRISTMAS 1.mp4|7f36e5518e89d7b26c944d2e435dbd37fbde279f6e3d57d32ec66bfa27b197c3
+chroma/base_files/animations_strip/A - 712 CHRISTMAS 2.mp4|e7f2e1d2eb14ab279bb968bdb8c25e5e34b79e0e27cc4c33eb4db906790c2b4c
+chroma/base_files/animations_strip/A - 811 EASTER 1.mp4|7b1ae25bc588372e7d7e87c3609bcb094ebc7bf75b2b361f5c28ca103d911f44
+chroma/base_files/animations_strip/A - 812 EASTER 2.mp4|e6f5471c22b120198c1f052cfedf39c12fae7014117dd9a579df97c333a021af
+chroma/base_files/animations_strip/A - 911 GREEK FLAG 1.mp4|ff82930a8f200857e929b9e701889ef4feb0c4dd1dad515fe8c4f0c66eb5b95c
+chroma/base_files/animations_strip/A - 990 GESY ANIMATION.mp4|769ffed76d4a10c2689bfdad723f814b0d0a81876fda51d2befc09fb9016ee99
+chroma/base_files/animations_strip/C - date.mp4|2216bb3e74fe7afa39847788fd0a3666a4d5310ddc46cc24ab2a4c36195e0333
+chroma/base_files/animations_strip/C - temp.mp4|65bc245597fce3a9b4eb4dbd312ef1e6c358a771ad4103cff86ab834f689cd5b
+chroma/base_files/animations_strip/C - time.mp4|e18cd237f18d04d82aa29b1f0e69666a6d2b311d4dc943085003e48b726eb53a
+chroma/base_files/animations_strip/earthdtt.mp4|1bbe179e6404eb651bf9c61c8f4b462c3bbe0c30fb369585c26217f01cbd96d9
+chroma/base_files/animations_strip/temperature.mp4|b8911b548fd9a3e7904935a0d0e1afc3f04410dc6c438df132e362027b07ae82
+chroma/base_files/animations_strip/text_bg_1.mp4|7594b6b9ef9c46700c7d5320698e346e4781602a230c6e1cdf3453a7d53687ae
+chroma/base_files/animations_strip/text_bg_2.mp4|aad17e758b3fdabe59bf858d40ab3665200614fceed7f2f7c9aa44f270574e3a
+chroma/base_files/animations_strip/text_bg_3.mp4|e3286af1fe0403f9e02dae297e4addefe2eb5193f86b10e62b4528e9391f2781
+chroma/base_files/animations_strip/text_bg_4.mp4|32bcbe4f5d643ba562568c982c412279cfe30fe1567c513875a506d302ca7df7
+chroma/base_files/animations_strip/text_bg_5.mp4|f0295b7e24be8532ce4af414e4e3f8b0ca16e1b28622b2a387184ff6ecd3ebcb
+chroma/base_files/brands/Ahava.mp4|8ba4a177303f6c73275191149e1edd4df118c00ce3b09e29b94979141979f797
+chroma/base_files/brands/Apaisyl.mp4|735faf86f7de42e295af99298a94950cece3913b3a745b6102324b983fd8116b
+chroma/base_files/brands/Apivita.mp4|871e34fc539d9fc294f73c3a4ba132863dc0f864a78ce0bbc7a69b1bbb58a13b
+chroma/base_files/brands/Avene.mp4|7e9819c4cbaf84644b8358e5cd729c44d6aa2f897228d52b044a2c7467d50882
+chroma/base_files/brands/avene.png|dd8ee8b53a22ec07f350069ead59e59271ecd04bc9f1883f7776a44db22d5ad5
+chroma/base_files/brands/Avogel.mp4|e29613baf237bb0619c4c946acbaa0dc3d75d3411cefb75ff7f8af4c101ee832
+chroma/base_files/brands/Bacteflora.mp4|7cdf7538eb4dc3eb5225324ce8a65459a3c3ab094e62bafb0e914174c7f7e611
+chroma/base_files/brands/Bepanthol.mp4|6823b9f7542b5193015840f8a5857c2119c3ef71ee1a1fb73a05de319db1c70e
+chroma/base_files/brands/bg1.mp4|1a3f503d3592469ff0d8400b426d9546ad44c2de8043c92db687e9c1da5e9f38
+chroma/base_files/brands/bg2.mp4|b16e9bbc354730f853a5f98ce2e595383e7c2fd20da233324263b0fc1a8e80d6
+chroma/base_files/brands/bg3.mp4|1a48d0e1fec77ba3c282e935b1ea28a55431f8eddd51354ee3ea2e2f352a7568
+chroma/base_files/brands/Bioderma.mp4|43298ca98966b5e2d1c44b3bb4552564bcdf22cb4e8748f73807732a6961d79e
+chroma/base_files/brands/bioderma.png|f6872be8a25f5a067a4da27601dcc764fbcf0fdb216a0017b04c56a95cdd2c1f
+chroma/base_files/brands/BioOil.mp4|e23091ac304e10b39c0fb7f1876d360f7a9c22df7bb18002d2e290602e13d24b
+chroma/base_files/brands/Caudalie.mp4|a747d72c002b0c84303d5f083efb01088b938ebe0f0920f86dbc629a112b8eb8
+chroma/base_files/brands/Centrum.mp4|e3aab5a301c40358db31eb4bcf52c18bac5bc4eba0f85ef4bf1e75c77ce2a74a
+chroma/base_files/brands/cer8.mp4|c1d4d49988321cede85af1d676401d2345f49ad788f66138be3ef8a4b8b1c3e5
+chroma/base_files/brands/Cerave.mp4|122ab399db3c5ef945241b10f84edbe0099732d4119bb89f96087f80fc5ad18b
+chroma/base_files/brands/Chicco.mp4|bc08bfd35dc28c41813a254fba0ef8dddf8c624433c4cefb293ed7d553d7d71c
+chroma/base_files/brands/Clinea.mp4|c09fdefef6b9e29018c488da08e583ea1fb895a4a8902a30d5e39aaffd524321
+chroma/base_files/brands/Corpolibero.mp4|f5c0cf441d17ca92ccb5c46fd450633ba8ccaf39db4d49c4d6dfeb5039d2eeb3
+chroma/base_files/brands/Counterpain.mp4|332eb5315cf4648dcadb573eec4d3715e9244edf0e721130865d78f6a19f120a
+chroma/base_files/brands/Curaprox.mp4|39534933175279202d0c4202c954ea801f1a1a5ff3a1f22d9be0d18832f80a90
+chroma/base_files/brands/DoctorsFormula.mp4|27b8bc4be597522eb456adb8cd8f4d745071429ecbf66bd268ed70723aa0b6e7
+chroma/base_files/brands/Duo.mp4|5007d551706f46026ec7b32d6b7e5feaccd8b3e543c08cb77c3da44eb1adeed5
+chroma/base_files/brands/Durex.mp4|ce56d8100ef0353b233dfc04946b85732bfd9656c654af854c276d0ea05e699a
+chroma/base_files/brands/epanthol.mp4|6823b9f7542b5193015840f8a5857c2119c3ef71ee1a1fb73a05de319db1c70e
+chroma/base_files/brands/Eviol.mp4|ed5817358d7db73d40b3f9049c89b79f6492d632f45c46fd7b08fdaf3588b730
+chroma/base_files/brands/FrezyDerm.mp4|0ddb595266c40704303c32b5cee15068033e53d400baacf13b70ea0cb1c2a417
+chroma/base_files/brands/frezyderm.png|8c72a28f0c61b372d5377a628b6e4e5fe2e15ef179dbdcf556e773eeffb460bf
+chroma/base_files/brands/Froika.mp4|48a48abae4efe4d4c07467e2b9c8bb70fc963e5bcfa7ed9b71735ce35fb21d22
+chroma/base_files/brands/Fyto.mp4|cc0f5803ccd9feb48760a844d7fd8db3b7b5da05414cb529682f1ef741bb8968
+chroma/base_files/brands/Galenic.mp4|81873ad1095a1e3eb9762bb6b6eba1aa69b8cbe4359091fccbab9a80237dc093
+chroma/base_files/brands/Ganecom.mp4|bf37c8c71ae77d3261024ce7b17ff4912119b02260484a0f88f8759ea919fc0b
+chroma/base_files/brands/Gehwol.mp4|eb704283e2050b43420c1fdb4fd6608cd4d12a854595161eb6a1e0bc6ec60fad
+chroma/base_files/brands/Genecom.mp4|b92057bf6ce60e93c6d795ec0012287365ce01e3f98d9537deb1824082055674
+chroma/base_files/brands/HealthAid.mp4|bdf787358ace7a33b7d22d589696f7581787962ea91beb71e0f7ae466454b81e
+chroma/base_files/brands/Helenvita.mp4|9bf0b4592097f1a843dc13c5b25da42593c141c2961d5cfff39ff82a679a6999
+chroma/base_files/brands/Hydrovit.mp4|8b6f01b15b66b9691eafecf221f66c5e5e7db34729b5049d30c9874491caf2a4
+chroma/base_files/brands/InterMed.mp4|965cbb1ee053ecfe205954d0a488a719bd5c16f25810b3dfdb8c2a6ae5481714
+chroma/base_files/brands/Korff.mp4|3ba04ad641af7f941ebef6a872032abb0ae73dccaf6221ca562500b6464ac1c6
+chroma/base_files/brands/Korres.mp4|461324dfc46404f923605a457e4573bd2899a259725e3af94a14ea3805f759f5
+chroma/base_files/brands/Labrada.mp4|b416e8a1ac469048c69e9644c6bdfb8dee08474efaad8c962cb212727c8ce91a
+chroma/base_files/brands/Lamberts.mp4|ee3fc588a5acbc6de7ce7ae4f69634d5a118e51d1e8bd1736946cdfeafa4cda7
+chroma/base_files/brands/Lanes.mp4|42aabf4e492a7bf0e2ce82af41b70f802c4edb53e05db86bcf829545be3799f6
+chroma/base_files/brands/LaRochePosay.mp4|3b72c4283dbc5983619f4a433de17d9cc3024f7d163bdbffdd4ee98a5268e450
+chroma/base_files/brands/Lerbolario.mp4|2393d8b571d13a5885f74bd8d4f21a96a99262a83b630ca4a8074ce4213b883c
+chroma/base_files/brands/lierac.mp4|6e93ee2cac96ad696858165bc86411b9d2af0aaafba7247510a06d87643e9e85
+chroma/base_files/brands/Mam.mp4|b5b8582a565b61a04cf9bdc8dae7414cab424d95eb3bb4c0513507d0acc9c7d6
+chroma/base_files/brands/mfree.mp4|84230deb1c865a5a289454f7158528c16e88b43110d37796eaa7f2d80b046f6b
+chroma/base_files/brands/Mollers.mp4|46b8f850fc806bf5a5c247987b1bf249bdb563b78f368958f3688ecd0862dd89
+chroma/base_files/brands/NaturaSiberica.mp4|448b24de8ac040ab26b89d6b53ecf12eebc17c8124ed9ffd76f9fa3313ff8051
+chroma/base_files/brands/Nowfoods.mp4|e582b21ecb09af386b177446ca09ae6764aa5672feab62f546931b0278f6ce9d
+chroma/base_files/brands/Nuk.mp4|dce18968477ca7d0a14a66f3e25733078c48c7829d80fe1682fd0022c2965e6e
+chroma/base_files/brands/Nuxe.mp4|b9231f1e4815d7ccdd4442f42dd695875caaca5121495eb9b6a2f75d45236915
+chroma/base_files/brands/OnNurt.mp4|4f6ea16c3407e70e3cb5f808e200b3026a9a14c0be252c4e9614a32fcd10f3d5
+chroma/base_files/brands/OnNutritions.mp4|4f6ea16c3407e70e3cb5f808e200b3026a9a14c0be252c4e9614a32fcd10f3d5
+chroma/base_files/brands/output/backup/brands.mp4|3573e3e623a9922b447944d745c2b0983c729af4996b6d50948f35825e1dfd0a
+chroma/base_files/brands/output/backup/output.mp4|157822317cd68f9a30676c9c202ad80ffbab965cd531e4f1484a8d23d8e2f852
+chroma/base_files/brands/output/brands.mp4|2c163801dbd71b87b8f8c6edbba5b2a057897a9d4191c2a6b1debbb6c4c595c0
+chroma/base_files/brands/output/output.mp4|f14b3d71556e2655491b4b88b482b52f4a7a3eba70c8590d0fc1b85c0e9d6150
+chroma/base_files/brands/Pharmalite.mp4|b8464342dab329d88a614f12ba9832c2c1472f1b266443fe9c7e9838406e996b
+chroma/base_files/brands/pharmasept.mp4|e25a00b2e837db1ff8edbde50b833968818025be0b678d256ef46a25f88fa42d
+chroma/base_files/brands/Phas.mp4|20a1617ad45a168aa7bcba824839f91740a8b2397a1c499cc0492cb00a1a9a6c
+chroma/base_files/brands/Philips.mp4|193791d529bf0add98e3d8b08a65d431ff690a28412e3ed0f1c5fa718d49a55c
+chroma/base_files/brands/physiomer.mp4|957ed227214916e07b1313bf20bd88efe4715f86b23787fcb3a5b66e8e38e105
+chroma/base_files/brands/Podia.mp4|3aa6a02748d5575f0ea4d265f3b9704edb835c2bec75a645d9a8d6ace28b4952
+chroma/base_files/brands/PowerHealth.mp4|c4f5a996773ff90d6dab632df846b5875014dcf01781661181600693b4dec8b8
+chroma/base_files/brands/purelogicol.mp4|4a4cce16f8c19305e4dec031a3343599b9369c9b3bd79ebb20337b7745a618da
+chroma/base_files/brands/Purina.mp4|792ea86950646dd4cd2eeedc9eb5875c898d0ddbf29ac1c8f5bacf4a5f912bd4
+chroma/base_files/brands/Roc.mp4|3b2af21204a0597d1528961e4f372f1ddccd4f48318fee037f1459d8bc762978
+chroma/base_files/brands/Scholl.mp4|db4cb34b11cdf447ce45ef0261cdddb522046b7f343110bf5997f0a701aabfdc
+chroma/base_files/brands/Solgar.mp4|f9e159761a175d30348eff0c64fb6cd564aee704748eaa917b34754c42fcf66a
+chroma/base_files/brands/Sostar.mp4|5db3d4baf8dcf68c5e6216da237ec93f00ffacec1173da1a51ffd5e366eed3de
+chroma/base_files/brands/TolVelvet.mp4|e00e8266ff3cf61b01eafadcf863987a4055dfaf69a5942a0dd47848958f9f45
+chroma/base_files/brands/Tonotil.mp4|52a7809bc9689b77cc213e14261076ef06fbe851052a159a2d80b30a2876936f
+chroma/base_files/brands/unipharma.mp4|511d6dee6f436ee46ede4941b189babe30050c118a1d2fff8c09555abb59b9cd
+chroma/base_files/brands/Uriage.mp4|86f9b44d91360d09d5006f935fe7bbf37b34f09f8d1cb3aaa451f98a5f628882
+chroma/base_files/brands/Veet.mp4|08bf8a8cde7177af36a08178b4c585b48b004ed0ba536bb465e9b0d5f9b0d9bf
+chroma/base_files/brands/Vichy.mp4|05fa869179f3a556ebfaec747a4bdcdd56bfdb93b328983e9d098dd70bccdc14
+chroma/base_files/brands/YouthLab.mp4|d87ec12f621984665a9412140b6fd07e8bed5d9512285aac81797bd886cfccb4
+chroma/base_files/brands_strip/Apaisyl.mp4|115c99a184f38f052fb1e9fd785ce2ad4684a3b42062d23e35d59d82ce7b4a67
+chroma/base_files/brands_strip/Apivita.mp4|b69c4170f930ff07d45f4300167d7ec07a997ed2431d17a8b3f78e819ebe72ab
+chroma/base_files/brands_strip/Avene.mp4|fe217bff599631efe185bf048e57424c475a8bfe0b31543ae7af664092c039a6
+chroma/base_files/brands_strip/Avogel.mp4|3156170e1e05147c4600982661d56ede2f0b9eb382b8d6e045d582e7520ec0c8
+chroma/base_files/brands_strip/Bacteflora.mp4|46a22b4d7a36b457c754c0e85d00a9693d3190616b2d969cc77ebd47d3a0a339
+chroma/base_files/brands_strip/Bepanthol.mp4|7785fbc09af43d8af8f6cd73d17e639405be1334267f3d1b8f04795ace811e59
+chroma/base_files/brands_strip/bg1.mp4|52e7565a3a940b14dd1e021c5e79a4cac265ef0a997afa94d111637cb43d6a6a
+chroma/base_files/brands_strip/bg2.mp4|1b4c2acbb4efe727259eb0a8830dfd5b7d4b850e4cdb18912a577a314fcdbee5
+chroma/base_files/brands_strip/bg3.mp4|877b1954034152a1e0d4c7e798baf17e0326adb987325a40de59c5d4ee1bb382
+chroma/base_files/brands_strip/BHydrovit.mp4|0e8916b5efddcf383f41086246e556f96b7839267c6611da404af50852ee2175
+chroma/base_files/brands_strip/BHydrovit_HWConvert.mp4|b73bd381f66fa6ec1ecbb5ae5fec00c41fde16a1589cc43a683caf8d77ccd639
+chroma/base_files/brands_strip/bioderma.mp4|b115bd9d298200f3d461aa7b2f0d55b215ab2b7a26cd29ee236ebba675365e36
+chroma/base_files/brands_strip/BioOil.mp4|965f58db6915e12b5b703e57b205d738a7f88a05c948913ad7f9beb72c7b5d5e
+chroma/base_files/brands_strip/BKorff.mp4|910e2d8817582473292198b45dddc5154cabaded525a27b90c26d7d2a37f258c
+chroma/base_files/brands_strip/BKorres.mp4|9138d6dd9e0e27af9dbe5afcdb754a9dfed1c7b2b0d0f89b15162b5b486b238a
+chroma/base_files/brands_strip/caudalie.mp4|121e4a21c0ec8188fc229c762f1c1b7ce9d2ee00e135eb08f342a1a1e99af977
+chroma/base_files/brands_strip/Centrum.mp4|a16f474bc29ec4151d0c11d0018e25ac7374b8205d9e36354e837a0a74ae57f9
+chroma/base_files/brands_strip/cer8.mp4|142e86712975c51b9691dc7425aaf44af10e76b9b1c6d84fef1d3f2107e6425e
+chroma/base_files/brands_strip/Chicco.mp4|c141f9b1a5c09bd468616a11c85732577d955e9a103ff6f7fee2d7e266e0050f
+chroma/base_files/brands_strip/Corpolibero.mp4|d95529ef12029bb65b3bf1961eb889c15fceb2c039ed7ca79fba16e9ace2d619
+chroma/base_files/brands_strip/Counterpain.mp4|7d80e69670d46be5e4817674f88c3895e98ae097766fed51f0f072247495f647
+chroma/base_files/brands_strip/DoctorsFormula.mp4|19b87e3338a4b8a87899ef324dac820070f44f3e4d6979ad95fe04d33622968b
+chroma/base_files/brands_strip/Duo.mp4|1312a1911e1e0f03a1eccde9d3aa4011488e744530eda19a8ec9a31dee8f0dd4
+chroma/base_files/brands_strip/Durex.mp4|9fb080035db13b140a2233d93056a83b2ce1589e2babdc4aba5d6b5e7d9b3ca7
+chroma/base_files/brands_strip/Eviol.mp4|6be7475ab68dfce00e55bc576cd49e2e9eaf59b69c0d79bb29908a4b842533d4
+chroma/base_files/brands_strip/FrezyDerm.mp4|c18603a37cf773e9fc61b8d978ed2bffa0711d112e594ccd06c17b60eb9c034d
+chroma/base_files/brands_strip/Froika.mp4|bf0ba4804235706265af79f4f29c8de9ab64c44e04fddcb4a6db91ca3af2b9ae
+chroma/base_files/brands_strip/Fyto.mp4|788d614b77f6145b16e90ddd1560c035db0da41dc0a2fdb5c9d8b8d19f01ea3b
+chroma/base_files/brands_strip/galenic.mp4|5c2773e80982beb7d687c701e0d8cb3704a52b19617b99e99accbc3c8b6991ef
+chroma/base_files/brands_strip/Genecom.mp4|c412ecb08e8fe8d908d5a392cfa61e1012b606aa393a9e4480fc94ae4f903b33
+chroma/base_files/brands_strip/HealthAid.mp4|b8043df67ba1ae227d2f002c020452d40f8d8cd9ae245738df43db5d95eda705
+chroma/base_files/brands_strip/Helenvita.mp4|07604021c0c796105f35c07bc92d204fd6c1e86f76e0c6e54a7726b75804cafe
+chroma/base_files/brands_strip/InterMed.mp4|273321bdbf590cffcd91c2c702c83f2bb52123e069bd1f6038c932d6b32c0772
+chroma/base_files/brands_strip/labrada.mp4|67b73a49937fe8121c9c3cf23484239a789a99f5927f895ad0fcc40dc77e0dd5
+chroma/base_files/brands_strip/Lamberts.mp4|fd835aa88d6b2f3a95bbe603c21d92c64a593a980bdd4f1064964096a0aea2f6
+chroma/base_files/brands_strip/Lanes.mp4|870bcec8722c8f119a131fce704647b88a6032af5a8d3bb1c421bdc44215883d
+chroma/base_files/brands_strip/LaRochePosay.mp4|18e43ebd51824b03760d712b13b4083d24ffb0bbc8ab3c19d7ee95ef0199b9bd
+chroma/base_files/brands_strip/Lerborario.mp4|a9e8b5be1b3fc1261ba7c7f1037739957fddce7f109d06ca4ef75747281b1f98
+chroma/base_files/brands_strip/Lierac.mp4|36f8a7e7de0290d85465c011c711331ebac8803213a296865af262f45d25ef7b
+chroma/base_files/brands_strip/Mam.mp4|841bc80d2f413b44f4569ce8c436b4518a29631f11dac5174230a2998a4af7b1
+chroma/base_files/brands_strip/mfree.mp4|8e0cb0cc30bdbc35b5d13ca91b59751d18866cce882a39267b5a3f84a35f59c9
+chroma/base_files/brands_strip/Mollers.mp4|aec472eb0ab2a63d9db2e2ba2a05ac169aff16073e207d61eff24a41a01026c8
+chroma/base_files/brands_strip/NaturaSiberica.mp4|d951bfb32f9ff06f738c5849e162f21f5d9f3db37e2fc7ecde54e693324031c1
+chroma/base_files/brands_strip/nowfoods.mp4|14ea827a8fd69e41b0b540940dfe9a87badecc3570cb34ecf87504b39213c0c4
+chroma/base_files/brands_strip/Nuk.mp4|93c8636c84be236e41ec421997406caa5d8e36f8690a16c06bb02c7c338c10d4
+chroma/base_files/brands_strip/Nuxe.mp4|df2da83380ad270ace5ffbe19b0789462c29094842f1844cda83d2d4bbdcfb8e
+chroma/base_files/brands_strip/on.mp4|a50d18be8cd2dcf0112aba550cccfa403f935cc9044ae6d98b7a242684d9c86e
+chroma/base_files/brands_strip/OnNutritions.mp4|0e9aa439131e47a3157d030018c3b9b99b26fa0042c34fa0cbc39f3afe0ffd38
+chroma/base_files/brands_strip/output/backup/brands.mp4|10fc8ecaf27577a22fa11d98460754001648648945a6954c1dff2b33931dc2df
+chroma/base_files/brands_strip/output/backup/output.mp4|e7d79bc44c8c75078f74a4f9bbbd2dee0b6f29a7b133ee4454ccd9d246855c02
+chroma/base_files/brands_strip/output/brands.mp4|e5d3e91722ee27661ff09dfded3bcc5d812e6bbe4081af3290d252851355a3df
+chroma/base_files/brands_strip/output/output.mp4|843e354cea0b118fc3ff973097a453a424d8c4e578266b334d65c06184d2b520
+chroma/base_files/brands_strip/pahrmasept.mp4|31e0af0db3fa96b00e1f1a6f6aea14accad605f7373de6f5a20a67dbcf644f72
+chroma/base_files/brands_strip/Pharmalite.mp4|791a17881bc977a383ab7439e4259692de188c91980ba883f99af62b12a8e6b3
+chroma/base_files/brands_strip/Pharmasept.mp4|28588023011a57a5dc756d8d2b304c8fb0cc2cc4923491dc852ffd4bca526e8f
+chroma/base_files/brands_strip/Phas.mp4|dc9dc601b52c84d43fa35dfe8416e172ce872f3bbbad4d2cebb3ea37a1b7e2cf
+chroma/base_files/brands_strip/Philips.mp4|ea59b34a3756e944ea272051682401ae961e4e8b046275a9ffffa130b864b980
+chroma/base_files/brands_strip/Physiomer.mp4|586e57babfc05dc5d57d9262b33a23c84016a3dc479bca636ba5084085497700
+chroma/base_files/brands_strip/Podia.mp4|924c1d588225c4ed3a63c946f86460e975a85b761c4935ca377590893681779a
+chroma/base_files/brands_strip/PowerHealth.mp4|3387f3d98482f6b59d127a7042c9800ec330f30cbc8fbe22738dfe05410f08c1
+chroma/base_files/brands_strip/Purelogicol.mp4|ee3220d91d4c55f74998f06005c1a5061945d7377fba1a0250526c8153471d75
+chroma/base_files/brands_strip/Purina.mp4|43f33687c7c6d490d42cdc9df0d2911761c26f81c43a5f627b9c2960c4d2a295
+chroma/base_files/brands_strip/Roc.mp4|3f5dbd001161f0c27a2439b228e2296edd9d371ca123cd9ff948e10738eed63a
+chroma/base_files/brands_strip/Scholl.mp4|b53d259374467949aa6a0a1af820bd25de499ac40995c545db8749bcd6c86125
+chroma/base_files/brands_strip/Solgar.mp4|813ce94f001a206de63e619c2d23c4a112aaf8ec840f78eef2b34c03ac401ce2
+chroma/base_files/brands_strip/Sostar.mp4|b25de809b9b5d06fe825c97ba97027c39b1fd91e3e5f4400f6d6edff4a220669
+chroma/base_files/brands_strip/TolVelvet.mp4|f9a9ca4f4635f487bd9da9751d34e876b6cf3fca4987d5e7d22cb57fe11e2088
+chroma/base_files/brands_strip/Tonotil.mp4|78e6d732733e3ea145d8a3f002300d8984489dd15f92722f0ed687a626e244cf
+chroma/base_files/brands_strip/Uni-Pharma2.mp4|d8e16ce40fa8a153530478e02db5cdb2f18d69a7080e578d594b190554743e03
+chroma/base_files/brands_strip/uriage.mp4|b8601fd8ed7c26a6d0267c832e502c492a84c6be49e1f9d5b2c5f04d42c99a3c
+chroma/base_files/brands_strip/Veet.mp4|18437576c4a0483cd2ca9af54ed7d379f500b07dbe72300e8bcbbebc2d0eae70
+chroma/base_files/brands_strip/Vichy.mp4|1a80a18fa996bf683cf3df0934ee57cafe64e9428163408eeea1446613ce7c96
+chroma/base_files/brands_strip/videoPaths.txt|d4dbe5136b54b1d593a6128d40d76dd6f126b93ccdefdaca5b3fadd871b7245e
+chroma/base_files/brands_strip/YouthLab.mp4|7871ef824101e0f39f3ad9f9caa392709deabdaecf68ffe844db46c4c85fb719
+chroma/base_files/texts/blue1.txs|6634d775822bbf824bedfa68dbd20bba1da5254a2349a513d48b77609c603c23
+chroma/base_files/texts/blue2.txs|6634d775822bbf824bedfa68dbd20bba1da5254a2349a513d48b77609c603c23
+chroma/base_files/texts/green1.txs|6333799f3c1cbe57de327451e0cb255f93d0dd924bf6f64216f35495993bea93
+chroma/base_files/texts/green2.txs|6333799f3c1cbe57de327451e0cb255f93d0dd924bf6f64216f35495993bea93
+chroma/base_files/texts/lgreen1.txs|9f976e2adf4b5eac393c1214afbd6b47dd2b252ed5f824e8f173b1cf11737a72
+chroma/base_files/texts/original/baseTextLightGreen.txs|aa1a8c76a6cde5690fffaaed83704b08967d5445eee446af8b59945b1efdb18a
+chroma/base_files/texts/original/blue.txs|6634d775822bbf824bedfa68dbd20bba1da5254a2349a513d48b77609c603c23
+chroma/base_files/texts/original/green.txs|6333799f3c1cbe57de327451e0cb255f93d0dd924bf6f64216f35495993bea93
+chroma/base_files/texts/original/red.rtxt|d78fe7648801b5f8d06f9c836c86b171f6e88035a3e3d8da270e47012b9a6fde
+chroma/base_files/texts/original/red.txs|9683ecbd1c9451623278c896c19685e20db9732e0289c505d50a308510530b72
+chroma/base_files/texts/original/slash-d1.rtxt|22a98fc04c6184e222c8b3728c867f7b2a7765977e81f7a0be2d3b21e4337094
+chroma/base_files/texts/original/slash-d2.rtxt|ef32678415c344e230bf1be583555cf583a49ea262b77b15bd4c4a98e5c09535
+chroma/base_files/texts/original/slash-d3.rtxt|4290c992584819952be11aa89dc359ea602c47845bcd92bccafd5daf3a9eef38
+chroma/base_files/texts/original/white.rtxt|30b64f36c1b9bb2e939d0c635ecb62f85f2b90921f656824092e5a4b2a567a83
+chroma/base_files/texts/original/white.txs|52368b19b41724d2921e0824389b90f861104da26dffd86661978e7167febad6
+chroma/base_files/texts/original/yellow.txs|75524d8c0f3d437084ed30866b288c0b691ecd251b27ba33a1f0bb18efa609c5
+chroma/base_files/texts/red1.txs|9683ecbd1c9451623278c896c19685e20db9732e0289c505d50a308510530b72
+chroma/base_files/texts/red2.txs|9683ecbd1c9451623278c896c19685e20db9732e0289c505d50a308510530b72
+chroma/base_files/texts/rtxt/4257b5d7b33c451cbbd0f895f6c06bc2.rtxt|8f989a0cd2c9772df8ad6d484cc08c8246983655e43980c53ee935bd5d4e5b57
+chroma/base_files/texts/rtxt/871415a18d0544188ed2740a1b0b1adc.rtxt|c41aea6112ca5827f6935bcd4c7468fb99443a9567f0da3f2179e2331574a350
+chroma/base_files/texts/rtxt/dateSlash1.txs|cd0f5648993280045d65ed4ecb7348f689e43a550cd0a8e471238e7ea223892f
+chroma/base_files/texts/rtxt/finalTextOne.txs|82dd0805273f04a55e6cb2fb28d510a7b52bada6d6fd7af519c5d7f474524123
+chroma/base_files/texts/rtxt/rtxt_1.rtxt|4290c992584819952be11aa89dc359ea602c47845bcd92bccafd5daf3a9eef38
+chroma/base_files/texts/rtxt/rtxt_2.rtxt|8f989a0cd2c9772df8ad6d484cc08c8246983655e43980c53ee935bd5d4e5b57
+chroma/base_files/texts/slash-d1.rtxt|0dc74a6eb068f4f19e4b2fb299fc2471855f47c7e1df7ee1d571f8288173d15f
+chroma/base_files/texts/slash-d2.rtxt|0dc74a6eb068f4f19e4b2fb299fc2471855f47c7e1df7ee1d571f8288173d15f
+chroma/base_files/texts/slash-d3.rtxt|0dc74a6eb068f4f19e4b2fb299fc2471855f47c7e1df7ee1d571f8288173d15f
+chroma/base_files/texts/text1.txt|e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+chroma/base_files/texts/text2.txt|e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+chroma/base_files/texts/texts/baseText.txs|de1c457b9505865848d36886df6c8b902b0e059d50011f2260b1a15e861c3c00
+chroma/base_files/texts/texts/baseTextBlue.txs|6634d775822bbf824bedfa68dbd20bba1da5254a2349a513d48b77609c603c23
+chroma/base_files/texts/texts/baseTextGreen.txs|6333799f3c1cbe57de327451e0cb255f93d0dd924bf6f64216f35495993bea93
+chroma/base_files/texts/texts/baseTextLightGreen.txs|aa1a8c76a6cde5690fffaaed83704b08967d5445eee446af8b59945b1efdb18a
+chroma/base_files/texts/texts/baseTextRed.txs|9683ecbd1c9451623278c896c19685e20db9732e0289c505d50a308510530b72
+chroma/base_files/texts/texts/baseTextWhite.txs|52368b19b41724d2921e0824389b90f861104da26dffd86661978e7167febad6
+chroma/base_files/texts/texts/baseTextYellow.txs|75524d8c0f3d437084ed30866b288c0b691ecd251b27ba33a1f0bb18efa609c5
+chroma/base_files/texts/texts/buckups/baseText.txs|de1c457b9505865848d36886df6c8b902b0e059d50011f2260b1a15e861c3c00
+chroma/base_files/texts/texts/buckups/baseTextBlue.txs|6634d775822bbf824bedfa68dbd20bba1da5254a2349a513d48b77609c603c23
+chroma/base_files/texts/texts/buckups/baseTextGreen.txs|6333799f3c1cbe57de327451e0cb255f93d0dd924bf6f64216f35495993bea93
+chroma/base_files/texts/texts/buckups/baseTextLightGreen.txs|aa1a8c76a6cde5690fffaaed83704b08967d5445eee446af8b59945b1efdb18a
+chroma/base_files/texts/texts/buckups/baseTextRed.txs|9683ecbd1c9451623278c896c19685e20db9732e0289c505d50a308510530b72
+chroma/base_files/texts/texts/buckups/baseTextWhite.txs|52368b19b41724d2921e0824389b90f861104da26dffd86661978e7167febad6
+chroma/base_files/texts/texts/buckups/baseTextYellow.txs|75524d8c0f3d437084ed30866b288c0b691ecd251b27ba33a1f0bb18efa609c5
+chroma/base_files/texts/texts/buckups/dateSlash1.txs|cd0f5648993280045d65ed4ecb7348f689e43a550cd0a8e471238e7ea223892f
+chroma/base_files/texts/texts/buckups/dateSlash2.txs|0d51b76dcd1ab619480f61dfae1a955abd26c83fb7c6e34882b1c60540b36c67
+chroma/base_files/texts/texts/buckups/finalTextOne.txs|50fde12c8c8daeaf9e7aa07aceea6d4964379f2648c17979545c5f0bbe9311b2
+chroma/base_files/texts/texts/buckups/finalTextTwo.txs|f13f57ab55c100b39e127ef4b0a59e5453632b933d02ee4ed9d81dc96a844261
+chroma/base_files/texts/texts/buckups/timeDots.txs|6e261f84a022a1e7a380c2e001126f2a5ddaba39538afb8664ac429b5bb76c31
+chroma/base_files/texts/texts/dateSlash2.txs|0d51b76dcd1ab619480f61dfae1a955abd26c83fb7c6e34882b1c60540b36c67
+chroma/base_files/texts/texts/finalTextOne.txs|19ecb316de7b66a5a28080ba7766443778caeb8312df1a56b69eebf7f7f6834c
+chroma/base_files/texts/texts/finalTextTwo.txs|c00fb085730377cfb876a6a1a47c6f44364d234a616956ed8d57085522ca5125
+chroma/base_files/texts/texts/originals/baseText.txs|de1c457b9505865848d36886df6c8b902b0e059d50011f2260b1a15e861c3c00
+chroma/base_files/texts/texts/originals/baseTextBlue.txs|30bb756fbc328dd299e412555f64fc7f4172c68b21610beb4cae35a2b913269a
+chroma/base_files/texts/texts/originals/baseTextGreen.txs|b9f6771a011eb4a04f03b47cabb98b7138d43489cdb0fbc525a839b65877dd04
+chroma/base_files/texts/texts/originals/baseTextLightGreen.txs|25f86a2e2a56b655daa777db8386a163ee4d6813ffe75a5f80a6f86ce2d9c6d8
+chroma/base_files/texts/texts/originals/baseTextRed.txs|36fcb687e130160b689c76b9f8def83ee9a1ac5e3f2798da986a647b2ddc6f62
+chroma/base_files/texts/texts/originals/baseTextWhite.txs|bc1ab80b23d355ba911f5ad89182dd0234e6bbe9d628873420e1a09c9a916575
+chroma/base_files/texts/texts/originals/baseTextYellow.txs|99d418a3e401f3139c4d34e4bba21ac97d234e3c0559074e6a5e291ed58842b7
+chroma/base_files/texts/texts/originals/dateSlash1.txs|cd0f5648993280045d65ed4ecb7348f689e43a550cd0a8e471238e7ea223892f
+chroma/base_files/texts/texts/originals/dateSlash2.txs|0d51b76dcd1ab619480f61dfae1a955abd26c83fb7c6e34882b1c60540b36c67
+chroma/base_files/texts/texts/originals/finalTextOne.txs|8e344215f1e2b13f9640071a5d4f0fd77b6280b9a1894f95c72dff912a204ce5
+chroma/base_files/texts/texts/originals/finalTextTwo.txs|f13f57ab55c100b39e127ef4b0a59e5453632b933d02ee4ed9d81dc96a844261
+chroma/base_files/texts/texts/originals/timeDots.txs|6e261f84a022a1e7a380c2e001126f2a5ddaba39538afb8664ac429b5bb76c31
+chroma/base_files/texts/texts/timeDots.txs|6e261f84a022a1e7a380c2e001126f2a5ddaba39538afb8664ac429b5bb76c31
+chroma/base_files/texts/txs/BoldWhite.txs|50cb56f4068d07e689f5b242ea73e102f9e8ee3123f69cf090aa70ba8384a4cf
+chroma/base_files/texts/txs/d385ac227db7ac5681f80f2bef20cb6a.txs.lnk|bad45964c3caa545222f09f127f44deb7ed8917038e1461522a4c1709d438737
+chroma/base_files/texts/txs/dttDots.txs|2e77f0858bf00cd0e6fc6da79fbb761da469f233a4c2851365bd505b4d48c14f
+chroma/base_files/texts/txs/dttSlash.txs|6ce6765adc159a7d5a2ce2d487bffd110c6d3bb8309d85fea02f46114da1c00f
+chroma/base_files/texts/txs/output2.txs|f67955bca8e0cba8f0f66fc42c80ba356d78355925f0970d1d69372802314b1a
+chroma/base_files/texts/txs/ready.txs|416d4a6c6a337124c792b306a2a0d1c9f73159b7c6e6f2c63de7a7666ba70ae2
+chroma/base_files/texts/txs/slash-d1.rtxt|22a98fc04c6184e222c8b3728c867f7b2a7765977e81f7a0be2d3b21e4337094
+chroma/base_files/texts/txs/symbol-white.txs|5f7a8228461044fb402345bf9e93c0e8a3dfdc75daeadc7907a9067588a558e6
+chroma/base_files/texts/txs/symbol-white2.txs|1d94c6a358d3b72c67962fdd79774bb0d15e0b5a81e748142a4c5a2c1bf6fea2
+chroma/base_files/texts/txs/symbol.txs|61cd7939f5ccbe3cc9d50c56a152928a5a7b349fdc08c29d2bc40ff6409d1e83
+chroma/base_files/texts/txs/symbol1.txs|61cd7939f5ccbe3cc9d50c56a152928a5a7b349fdc08c29d2bc40ff6409d1e83
+chroma/base_files/texts/txs/test15.txs|aee752c84549118799bf21d25275ebbdaeabf819065a6f5c5860d161958c4264
+chroma/base_files/texts/txs/ttt.txs|a5aa9039558932ab7bbbb5fae67036264ba600cb3a1d37c68754e46945a45371
+chroma/base_files/texts/txs/txs_10.txs|e14dd54b39edb01da24402e05e7dd13dbad519896783db322438636881720d91
+chroma/base_files/texts/txs/txs_11.txs|b5c344526aa3f602c55ce29bee6ace4bac3bee1c219c8348fae951dc3d9aff61
+chroma/base_files/texts/txs/txs_2.txs|276309d7d936d1a8ce88dc748d00c575645aca2d2722453e121ea2ab350c2913
+chroma/base_files/texts/txs/txs_3.txs|c6b6241082f539257a055e22928a4220162d76cf4c262ce7c2043ff284e783ad
+chroma/base_files/texts/txs/txs_4.txs|4352118cdfc66feb3dadbc197f906e3b826eddd4ee0cf6b310ab7a2e7df864d3
+chroma/base_files/texts/txs/txs_5.txs|a095ae808ddfa4077a66802a1fae3c8b199accc4ac4976ee7afb8daa9fd6fe08
+chroma/base_files/texts/txs/txs_6.txs|1b6eb508e0d12f8bfff70914fba95e706a6877feab149e23dc3ec8c11267464c
+chroma/base_files/texts/txs/txs_7.txs|19de6dbd0bcd05da1e4326cc1174b63f9c3a9683190046ef5d16175623e74001
+chroma/base_files/texts/txs/txs_8.txs|2d6776f614e4966c762f95428c6f439a19ae4d2adcfb4fa8336ebbc6decf0e53
+chroma/base_files/texts/txs/txs_9.txs|a130a04b865ff962cfe59225aae34f2fd2b3c6e6afbe719cd35c506a62ef2a0e
+chroma/base_files/texts/white1.txs|52368b19b41724d2921e0824389b90f861104da26dffd86661978e7167febad6
+chroma/base_files/texts/white2.txs|52368b19b41724d2921e0824389b90f861104da26dffd86661978e7167febad6
+chroma/base_files/texts/yellow1.txs|75524d8c0f3d437084ed30866b288c0b691ecd251b27ba33a1f0bb18efa609c5
+chroma/base_files/texts/yellow2.txs|75524d8c0f3d437084ed30866b288c0b691ecd251b27ba33a1f0bb18efa609c5
+chroma/base_files/texts_chroma2/blue1.txs|6634d775822bbf824bedfa68dbd20bba1da5254a2349a513d48b77609c603c23
+chroma/base_files/texts_chroma2/blue2.txs|6634d775822bbf824bedfa68dbd20bba1da5254a2349a513d48b77609c603c23
+chroma/base_files/texts_chroma2/green1.txs|6333799f3c1cbe57de327451e0cb255f93d0dd924bf6f64216f35495993bea93
+chroma/base_files/texts_chroma2/green2.txs|6333799f3c1cbe57de327451e0cb255f93d0dd924bf6f64216f35495993bea93
+chroma/base_files/texts_chroma2/lgreen1.txs|9f976e2adf4b5eac393c1214afbd6b47dd2b252ed5f824e8f173b1cf11737a72
+chroma/base_files/texts_chroma2/original/baseTextLightGreen.txs|aa1a8c76a6cde5690fffaaed83704b08967d5445eee446af8b59945b1efdb18a
+chroma/base_files/texts_chroma2/original/blue.txs|6634d775822bbf824bedfa68dbd20bba1da5254a2349a513d48b77609c603c23
+chroma/base_files/texts_chroma2/original/green.txs|6333799f3c1cbe57de327451e0cb255f93d0dd924bf6f64216f35495993bea93
+chroma/base_files/texts_chroma2/original/red.rtxt|d78fe7648801b5f8d06f9c836c86b171f6e88035a3e3d8da270e47012b9a6fde
+chroma/base_files/texts_chroma2/original/red.txs|9683ecbd1c9451623278c896c19685e20db9732e0289c505d50a308510530b72
+chroma/base_files/texts_chroma2/original/slash-d1.rtxt|22a98fc04c6184e222c8b3728c867f7b2a7765977e81f7a0be2d3b21e4337094
+chroma/base_files/texts_chroma2/original/slash-d2.rtxt|ef32678415c344e230bf1be583555cf583a49ea262b77b15bd4c4a98e5c09535
+chroma/base_files/texts_chroma2/original/slash-d3.rtxt|4290c992584819952be11aa89dc359ea602c47845bcd92bccafd5daf3a9eef38
+chroma/base_files/texts_chroma2/original/white.rtxt|30b64f36c1b9bb2e939d0c635ecb62f85f2b90921f656824092e5a4b2a567a83
+chroma/base_files/texts_chroma2/original/white.txs|52368b19b41724d2921e0824389b90f861104da26dffd86661978e7167febad6
+chroma/base_files/texts_chroma2/original/yellow.txs|75524d8c0f3d437084ed30866b288c0b691ecd251b27ba33a1f0bb18efa609c5
+chroma/base_files/texts_chroma2/red1.txs|9683ecbd1c9451623278c896c19685e20db9732e0289c505d50a308510530b72
+chroma/base_files/texts_chroma2/red2.txs|9683ecbd1c9451623278c896c19685e20db9732e0289c505d50a308510530b72
+chroma/base_files/texts_chroma2/rtxt/4257b5d7b33c451cbbd0f895f6c06bc2.rtxt|8f989a0cd2c9772df8ad6d484cc08c8246983655e43980c53ee935bd5d4e5b57
+chroma/base_files/texts_chroma2/rtxt/871415a18d0544188ed2740a1b0b1adc.rtxt|c41aea6112ca5827f6935bcd4c7468fb99443a9567f0da3f2179e2331574a350
+chroma/base_files/texts_chroma2/rtxt/dateSlash1.txs|cd0f5648993280045d65ed4ecb7348f689e43a550cd0a8e471238e7ea223892f
+chroma/base_files/texts_chroma2/rtxt/finalTextOne.txs|82dd0805273f04a55e6cb2fb28d510a7b52bada6d6fd7af519c5d7f474524123
+chroma/base_files/texts_chroma2/rtxt/rtxt_1.rtxt|4290c992584819952be11aa89dc359ea602c47845bcd92bccafd5daf3a9eef38
+chroma/base_files/texts_chroma2/rtxt/rtxt_2.rtxt|8f989a0cd2c9772df8ad6d484cc08c8246983655e43980c53ee935bd5d4e5b57
+chroma/base_files/texts_chroma2/slash-d1.rtxt|22a98fc04c6184e222c8b3728c867f7b2a7765977e81f7a0be2d3b21e4337094
+chroma/base_files/texts_chroma2/slash-d2.rtxt|c8c785163c952188e64c64961f494304cb4dec472694882bc375501ac216fe5f
+chroma/base_files/texts_chroma2/slash-d3.rtxt|22a98fc04c6184e222c8b3728c867f7b2a7765977e81f7a0be2d3b21e4337094
+chroma/base_files/texts_chroma2/text1.txt|e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+chroma/base_files/texts_chroma2/text2.txt|e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+chroma/base_files/texts_chroma2/texts/baseText.txs|de1c457b9505865848d36886df6c8b902b0e059d50011f2260b1a15e861c3c00
+chroma/base_files/texts_chroma2/texts/baseTextBlue.txs|6634d775822bbf824bedfa68dbd20bba1da5254a2349a513d48b77609c603c23
+chroma/base_files/texts_chroma2/texts/baseTextGreen.txs|6333799f3c1cbe57de327451e0cb255f93d0dd924bf6f64216f35495993bea93
+chroma/base_files/texts_chroma2/texts/baseTextLightGreen.txs|aa1a8c76a6cde5690fffaaed83704b08967d5445eee446af8b59945b1efdb18a
+chroma/base_files/texts_chroma2/texts/baseTextRed.txs|9683ecbd1c9451623278c896c19685e20db9732e0289c505d50a308510530b72
+chroma/base_files/texts_chroma2/texts/baseTextWhite.txs|52368b19b41724d2921e0824389b90f861104da26dffd86661978e7167febad6
+chroma/base_files/texts_chroma2/texts/baseTextYellow.txs|75524d8c0f3d437084ed30866b288c0b691ecd251b27ba33a1f0bb18efa609c5
+chroma/base_files/texts_chroma2/texts/buckups/baseText.txs|de1c457b9505865848d36886df6c8b902b0e059d50011f2260b1a15e861c3c00
+chroma/base_files/texts_chroma2/texts/buckups/baseTextBlue.txs|6634d775822bbf824bedfa68dbd20bba1da5254a2349a513d48b77609c603c23
+chroma/base_files/texts_chroma2/texts/buckups/baseTextGreen.txs|6333799f3c1cbe57de327451e0cb255f93d0dd924bf6f64216f35495993bea93
+chroma/base_files/texts_chroma2/texts/buckups/baseTextLightGreen.txs|aa1a8c76a6cde5690fffaaed83704b08967d5445eee446af8b59945b1efdb18a
+chroma/base_files/texts_chroma2/texts/buckups/baseTextRed.txs|9683ecbd1c9451623278c896c19685e20db9732e0289c505d50a308510530b72
+chroma/base_files/texts_chroma2/texts/buckups/baseTextWhite.txs|52368b19b41724d2921e0824389b90f861104da26dffd86661978e7167febad6
+chroma/base_files/texts_chroma2/texts/buckups/baseTextYellow.txs|75524d8c0f3d437084ed30866b288c0b691ecd251b27ba33a1f0bb18efa609c5
+chroma/base_files/texts_chroma2/texts/buckups/dateSlash1.txs|cd0f5648993280045d65ed4ecb7348f689e43a550cd0a8e471238e7ea223892f
+chroma/base_files/texts_chroma2/texts/buckups/dateSlash2.txs|0d51b76dcd1ab619480f61dfae1a955abd26c83fb7c6e34882b1c60540b36c67
+chroma/base_files/texts_chroma2/texts/buckups/finalTextOne.txs|50fde12c8c8daeaf9e7aa07aceea6d4964379f2648c17979545c5f0bbe9311b2
+chroma/base_files/texts_chroma2/texts/buckups/finalTextTwo.txs|f13f57ab55c100b39e127ef4b0a59e5453632b933d02ee4ed9d81dc96a844261
+chroma/base_files/texts_chroma2/texts/buckups/timeDots.txs|6e261f84a022a1e7a380c2e001126f2a5ddaba39538afb8664ac429b5bb76c31
+chroma/base_files/texts_chroma2/texts/dateSlash2.txs|0d51b76dcd1ab619480f61dfae1a955abd26c83fb7c6e34882b1c60540b36c67
+chroma/base_files/texts_chroma2/texts/finalTextOne.txs|19ecb316de7b66a5a28080ba7766443778caeb8312df1a56b69eebf7f7f6834c
+chroma/base_files/texts_chroma2/texts/finalTextTwo.txs|c00fb085730377cfb876a6a1a47c6f44364d234a616956ed8d57085522ca5125
+chroma/base_files/texts_chroma2/texts/originals/baseText.txs|de1c457b9505865848d36886df6c8b902b0e059d50011f2260b1a15e861c3c00
+chroma/base_files/texts_chroma2/texts/originals/baseTextBlue.txs|30bb756fbc328dd299e412555f64fc7f4172c68b21610beb4cae35a2b913269a
+chroma/base_files/texts_chroma2/texts/originals/baseTextGreen.txs|b9f6771a011eb4a04f03b47cabb98b7138d43489cdb0fbc525a839b65877dd04
+chroma/base_files/texts_chroma2/texts/originals/baseTextLightGreen.txs|25f86a2e2a56b655daa777db8386a163ee4d6813ffe75a5f80a6f86ce2d9c6d8
+chroma/base_files/texts_chroma2/texts/originals/baseTextRed.txs|36fcb687e130160b689c76b9f8def83ee9a1ac5e3f2798da986a647b2ddc6f62
+chroma/base_files/texts_chroma2/texts/originals/baseTextWhite.txs|bc1ab80b23d355ba911f5ad89182dd0234e6bbe9d628873420e1a09c9a916575
+chroma/base_files/texts_chroma2/texts/originals/baseTextYellow.txs|99d418a3e401f3139c4d34e4bba21ac97d234e3c0559074e6a5e291ed58842b7
+chroma/base_files/texts_chroma2/texts/originals/dateSlash1.txs|cd0f5648993280045d65ed4ecb7348f689e43a550cd0a8e471238e7ea223892f
+chroma/base_files/texts_chroma2/texts/originals/dateSlash2.txs|0d51b76dcd1ab619480f61dfae1a955abd26c83fb7c6e34882b1c60540b36c67
+chroma/base_files/texts_chroma2/texts/originals/finalTextOne.txs|8e344215f1e2b13f9640071a5d4f0fd77b6280b9a1894f95c72dff912a204ce5
+chroma/base_files/texts_chroma2/texts/originals/finalTextTwo.txs|f13f57ab55c100b39e127ef4b0a59e5453632b933d02ee4ed9d81dc96a844261
+chroma/base_files/texts_chroma2/texts/originals/timeDots.txs|6e261f84a022a1e7a380c2e001126f2a5ddaba39538afb8664ac429b5bb76c31
+chroma/base_files/texts_chroma2/texts/timeDots.txs|6e261f84a022a1e7a380c2e001126f2a5ddaba39538afb8664ac429b5bb76c31
+chroma/base_files/texts_chroma2/txs/BoldWhite.txs|50cb56f4068d07e689f5b242ea73e102f9e8ee3123f69cf090aa70ba8384a4cf
+chroma/base_files/texts_chroma2/txs/d385ac227db7ac5681f80f2bef20cb6a.txs.lnk|bad45964c3caa545222f09f127f44deb7ed8917038e1461522a4c1709d438737
+chroma/base_files/texts_chroma2/txs/dttDots.txs|2e77f0858bf00cd0e6fc6da79fbb761da469f233a4c2851365bd505b4d48c14f
+chroma/base_files/texts_chroma2/txs/dttSlash.txs|6ce6765adc159a7d5a2ce2d487bffd110c6d3bb8309d85fea02f46114da1c00f
+chroma/base_files/texts_chroma2/txs/output2.txs|f67955bca8e0cba8f0f66fc42c80ba356d78355925f0970d1d69372802314b1a
+chroma/base_files/texts_chroma2/txs/ready.txs|416d4a6c6a337124c792b306a2a0d1c9f73159b7c6e6f2c63de7a7666ba70ae2
+chroma/base_files/texts_chroma2/txs/slash-d1.rtxt|22a98fc04c6184e222c8b3728c867f7b2a7765977e81f7a0be2d3b21e4337094
+chroma/base_files/texts_chroma2/txs/symbol-white.txs|5f7a8228461044fb402345bf9e93c0e8a3dfdc75daeadc7907a9067588a558e6
+chroma/base_files/texts_chroma2/txs/symbol-white2.txs|1d94c6a358d3b72c67962fdd79774bb0d15e0b5a81e748142a4c5a2c1bf6fea2
+chroma/base_files/texts_chroma2/txs/symbol.txs|61cd7939f5ccbe3cc9d50c56a152928a5a7b349fdc08c29d2bc40ff6409d1e83
+chroma/base_files/texts_chroma2/txs/symbol1.txs|61cd7939f5ccbe3cc9d50c56a152928a5a7b349fdc08c29d2bc40ff6409d1e83
+chroma/base_files/texts_chroma2/txs/test15.txs|aee752c84549118799bf21d25275ebbdaeabf819065a6f5c5860d161958c4264
+chroma/base_files/texts_chroma2/txs/ttt.txs|a5aa9039558932ab7bbbb5fae67036264ba600cb3a1d37c68754e46945a45371
+chroma/base_files/texts_chroma2/txs/txs_10.txs|e14dd54b39edb01da24402e05e7dd13dbad519896783db322438636881720d91
+chroma/base_files/texts_chroma2/txs/txs_11.txs|b5c344526aa3f602c55ce29bee6ace4bac3bee1c219c8348fae951dc3d9aff61
+chroma/base_files/texts_chroma2/txs/txs_2.txs|276309d7d936d1a8ce88dc748d00c575645aca2d2722453e121ea2ab350c2913
+chroma/base_files/texts_chroma2/txs/txs_3.txs|c6b6241082f539257a055e22928a4220162d76cf4c262ce7c2043ff284e783ad
+chroma/base_files/texts_chroma2/txs/txs_4.txs|4352118cdfc66feb3dadbc197f906e3b826eddd4ee0cf6b310ab7a2e7df864d3
+chroma/base_files/texts_chroma2/txs/txs_5.txs|a095ae808ddfa4077a66802a1fae3c8b199accc4ac4976ee7afb8daa9fd6fe08
+chroma/base_files/texts_chroma2/txs/txs_6.txs|1b6eb508e0d12f8bfff70914fba95e706a6877feab149e23dc3ec8c11267464c
+chroma/base_files/texts_chroma2/txs/txs_7.txs|19de6dbd0bcd05da1e4326cc1174b63f9c3a9683190046ef5d16175623e74001
+chroma/base_files/texts_chroma2/txs/txs_8.txs|2d6776f614e4966c762f95428c6f439a19ae4d2adcfb4fa8336ebbc6decf0e53
+chroma/base_files/texts_chroma2/txs/txs_9.txs|a130a04b865ff962cfe59225aae34f2fd2b3c6e6afbe719cd35c506a62ef2a0e
+chroma/base_files/texts_chroma2/white1.txs|52368b19b41724d2921e0824389b90f861104da26dffd86661978e7167febad6
+chroma/base_files/texts_chroma2/white2.txs|52368b19b41724d2921e0824389b90f861104da26dffd86661978e7167febad6
+chroma/base_files/texts_chroma2/yellow1.txs|75524d8c0f3d437084ed30866b288c0b691ecd251b27ba33a1f0bb18efa609c5
+chroma/base_files/texts_chroma2/yellow2.txs|75524d8c0f3d437084ed30866b288c0b691ecd251b27ba33a1f0bb18efa609c5
+chroma/preview/animation/00_hermes_green.mp4|9aba4a8b19f25a35d3415e651f73e7f169b259f83a673cb7ef61f9c900abf4cd
+chroma/preview/animation/01_hermes_gold.mp4|4829b28cd075cd402b7394222273d1537761b504eab1558e5067a690151d74a8
+chroma/preview/animation/02_DNA.mp4|46abf5927a14866d8c0248240a1ecb9ece72cb3ab7571e53be8d96e7fe467257
+chroma/preview/animation/03_cross_space.mp4|d6765ab37235ba0aa77a452281a508bea9fdac275c7316edcc51fab3a1890609
+chroma/preview/animation/04_cross_fall.mp4|12f08f404a4149a8f551158258484c66d11db2cebac8402667531cd2160b87eb
+chroma/preview/animation/05_hearts.mp4|57e9dd36e59ea5bfa48076abd95dbf679a604a84c23f7896b41941cfe577f230
+chroma/preview/animation/06_cerpent_climb.mp4|160b99c45a49b436a0288eb92e257bf3e2f8bdcba83cfd6f416d95fa7e683ed0
+chroma/preview/animation/07_capsules_space.mp4|68ffa9e09ea4c107ba7a4d7218bec677e6fac1760777934b409522412a014f66
+chroma/preview/animation/08_capsules_full.mp4|52a06d04829188ea4b17faa5d5b4e8247ede7219efd244c5dcfb5777b90256fd
+chroma/preview/animation/09_capsuloscopio.mp4|f6569c1c92ee5363f964daaa9ae55ed97903b14823cb9d2cbc6b90f3b5d0d8cd
+chroma/preview/animation/10_glass_pills.mp4|8ff1b7e608edd7377bbb21fb98936348c901eae27dcd916c7584d9ef69c43904
+chroma/preview/animation/11_words_slide.mp4|41931073a14e77f1547fa484275ba9be8701da6cfe1fa0f51c178d999eca3f80
+chroma/preview/animation/12_tetris.mp4|9e2017ed4d23a01a189101b3fd234fb39e4815bab23588ae9a1455e00a1c7e9e
+chroma/preview/animation/13_flower_blossom.mp4|96d28bf356999423549b700348e10caae32fb749228e9cbdaa081a1875f84f33
+chroma/preview/animation/14_plant_growing.mp4|19d9a74d264727533c4ef7eb9a2c9ebcc68d32468a100c3430aedf4b573fd37a
+chroma/preview/animation/15_earth.mp4|7c39afbf1a1332bab9260651da7dda398c9f3903bb801c768f20c655b1f07edb
+chroma/preview/animation/16_abstract1.mp4|3191e036e4be502741be5a726036d85a4fdfef3d83b4fc486c59b189e51917a4
+chroma/preview/animation/17_abstract2.mp4|e02e69e9f0f5162abc20f6ea7c5a5db47ed847df9754c7a586be876bf245e226
+chroma/preview/animation/18_abstract3.mp4|bf5889ceeedc5afeca73a9bd034ec11e783b7b92ca61d7ac085aef230099a377
+chroma/preview/animation/19_abstract4.mp4|fa434261cb5b5770ae263c76f99ead3e89c98f81cd4e5ff4e6c65d683be5a3d8
+chroma/preview/animation/20_inter_apotheke.mp4|14dbab69e349a53fd677e1a2f3ea4fa8a9b30ff00831ede12308e9b939a58296
+chroma/preview/animation/21_inter_farmacia.mp4|8fd003e8a7cef4b1eef76be82307abcaf70519f579fe9dc5209ddea8b6a52707
+chroma/preview/animation/22_inter_farmakeio.mp4|f4696080b644122bb06b31fe436d4e6ed334257d1b4b9738aa8d843ef43f1c95
+chroma/preview/animation/23_inter_pharmacy.mp4|0e0207f42239ca0dc4310a74ef316caff32ace36dae6a066ca44082d6f76ac14
+chroma/preview/animation/24_interfar_zipper.mp4|8061991d0f992a4ff68015bf7fb0b472beeecdf02eb221b2e155278a00b816c4
+chroma/preview/animation/25_interfar_cross.mp4|eb815ecda80c0490ef51f7a3080f7adec78a9aa35320d5b8d52d885665c7102e
+chroma/preview/animation/501_1_med_omoiopathitika.mp4|856c5e4534ae2ac1354160378d03d0d512dfa1235879060893d3212c32abdafc
+chroma/preview/animation/501_2_med_diaititika.mp4|e0eb3bbd06405e08ff70243df2a579025d44ca62dc2053045688426dd46ce1e3
+chroma/preview/animation/501_3_med_orthopedika.mp4|999e0c43138d6fd01fd9d94668e618031707e29c79672e47af06f1584bb81297
+chroma/preview/animation/501_4_med_fitika_kallintika.mp4|af3edc41e4932820364af0e46e02c64e631930c9f2bc38a884577e39ce31b849
+chroma/preview/animation/501_5_med_ygieini.mp4|9945d2330b3220b5331a59721b54de1b396ec06eb88ea7e2599a39858ce8d737
+chroma/preview/animation/501_6_med_vrefika.mp4|81999f8dc84eb4c1246c2bf8f0c5fcdc6b2f566f795eed4755053f5d4c8b5b2b
+chroma/preview/animation/501_7_medtype_video_1.mp4|f7b2e1f61564d4f3f660bbdefe4ce387bd306bf7c68f54e0df452e49b1a2aa50
+chroma/preview/animation/611_name_way.mp4|acb2f97a4a1c5b9cf8d14b86918211d325b7033d6c7ad5682296500b2a23471c
+chroma/preview/animation/711_christmas1.mp4|571e3cfda6d4e5bbcd8ee547cfbac51dc5c75c027d02944804fe24aa5c7c577f
+chroma/preview/animation/712_christmas2.mp4|c29aca0aca773d4c322fb25836d19fc8bed3fe21dc9816f745094b9bb06879bc
+chroma/preview/animation/811_easter1.mp4|35b76426d3bba71343fbb35cd380940eb2229bd45110ffeff29ae4ce2e6100a4
+chroma/preview/animation/812_easter2.mp4|567928861f5f356d8915b803a68fef594fad35814aabde6b4a28065db4093816
+chroma/preview/animation/911_greekFlag1.mp4|4e212b7dd4cf71b09435c8886715a8693f88618d14652b62f0a9d6303abad551
+chroma/preview/animation/990_gesy.mp4|ad99c87e4d745cc720d637fd4da3bc356a4b2199735cd7a066bda0f05d3911bf
+chroma/preview/animation/9990_blinking_cross.mp4|14355040e67edb2a908b5ac0b7c2bc1f64013e449c5450bfd5d43d3dee973298
+chroma/preview/animation/9991_solid_green.mp4|6df305088e17729a2e4b6267c9973ca2050453bb2e598ee2007bda4729fa1973
+chroma/preview/animation/9995_snake_3d.mp4|612a6494b378fb2da5bedd11e289165036152c365b425aefe746ae86649e7edf
+chroma/preview/animation/9996_snake_rotation.mp4|372f0257cbc4826692b78d08d298c8bf6b5316a23dfce45af09203f464a7c2d5
+chroma/preview/animation/9997_spinning_crosses.mp4|8c09917a85ac92de5c272c68c1f93b26a72da32b27fc08ab05ac32698309c463
+chroma/preview/animation/9998_snake_full_cross.mp4|cd47611a3416209e645414f6fcb3a42fc8293dab74d58508709d902f58d56711
+chroma/preview/animation/default.mp4|892d0e77b56b1f310308268319bdcc77df67deb160fd020d7da8bab4c7645eb2
+chroma/preview/brands/brands_bg_1.mp4|156b092d52a8a3595491f925b546a9430368dce98a1b0457eab7cad4da32a65e
+chroma/preview/brands/brands_bg_1a.mp4|c65705b8b82dafc275fb8a2d748b6c37f96f7f7c81aff06d8ade95a32b1b1b11
+chroma/preview/brands/brands_bg_2.mp4|4b8d7d067b90076529a8e02cff919f3243c85a77f833a13d6c12bcd865e3ad49
+chroma/preview/brands/brands_bg_2a.mp4|75eead28b1098706618e079bca6c946aa691c6d7c0b8ade73dcb3b917696fe53
+chroma/preview/brands/brands_bg_3.mp4|6e4ddb7d7e4f138b973400572deca4125bfe87a8e0b71dd4fde3a9cb1a91eedb
+chroma/preview/brands/brands_bg_3a.mp4|2d2a63177df5b44ded35e28a5e0c37ba556580ed890fe4255f0eaab4bb8fe9ab
+chroma/preview/default.avi|0da36f55c720cae2b039a42c1912f986b849d911969b9b80d11aa035cf57e8b3
+chroma/preview/DTT/DTT_bg1.mp4|83f9988717f6c7980449b274153faa756dda6ed2349d43a63a297cb006362abd
+chroma/preview/DTT/DTT_bg2.mp4|18ee6b5e975b6c2a5cdd7eecfca7d9a4a2cc85fa3548714ee72aecb92bde691b
+chroma/preview/DTT/DTT_nobg.mp4|91ba851d0ded86cb76ed7bc29fd94b352eb767551e1487c2026a263f1e704651
+chroma/preview/text/textbg1.mp4|5362ef940d38bb8d6514101e250280a74e0e2550a0b272bc8bc3060831deafac
+chroma/preview/text/textbg2.mp4|e8fdb84ca334e5252ec303f83d440c4b02fe38ed323b07628b0a5a44f89f30c9
+chroma/preview/text/textbg3.mp4|e772d42b52cc123aed0cab1247aa9dbcd68bf5c4020eb286ef0d5c55b8b07591
+chroma/preview/text/textbg4.mp4|eddb0e86ce4fb4e3f8709547bdd28f309ffd15b90589827725e1a30578617a24
+green/base_files/animations/A - 101 LINES 1.mp4|60246e4f052e916a220a376ac620e2f2c08d4e32973c4f2e5b7e312bcd72c9cd
+green/base_files/animations/A - 102 LINES 2.mp4|69019e8087f693125ea1322d407cecbd394d43e447cac232c8c8e8136c7cb8c8
+green/base_files/animations/A - 103 LINE CROSS.mp4|464c03fd23d43ab2f4b5255b17f6c43a794d7d2e349417d8e49caf1194aabf7b
+green/base_files/animations/A - 104 ITALIAN CROSS.mp4|b5d5e128fabac60bc5e6043be629557680fb2eed6e037425030822e91cad1a91
+green/base_files/animations/A - 151 IN OUT CROSS.mp4|5f8b2f552646254dd2f3d3298364947b78dc0c495cf496f62c2d17ff983ff293
+green/base_files/animations/A - 201 WAVE.mp4|8788e4cc5122bc1753b097ad4e0128b0771184af1b0bc7c1951edef2908379d7
+green/base_files/animations/A - 202 ROMVOS.mp4|f9e52a04174213fa23b692ff7de98ba3dafa5501e9baf9d743b66bb3d6304e50
+green/base_files/animations/A - 203 CORNER.mp4|66549101307a77549c8dd19e691d2ada773abe07ba7594dbb70d489167efa3b7
+green/base_files/animations/A - 204 MEANDROS.mp4|542565e9745f930ab592ce7458e12798e238f6de79e50e16c981f7e4d2ce9586
+green/base_files/animations/A - 205 CHESS.mp4|06a44858dc6da742428315c8eae52ca493da507b35e5b20383fe6798cf27c127
+green/base_files/animations/A - 206 HEART.mp4|e8acb2db95bcc65b3eb07510693e07747cb5519b36d9782a5f6de42a953eb7f8
+green/base_files/animations/A - 301 ABSTRACT 2.mp4|9c95b902b5050380d750e482c79914746544bce528cb87b4ac2bc42bec61228b
+green/base_files/animations/A - 301 MORTAR.mp4|24d9cb26a30c215dc29f3da8a905f339cf0ffd55ee9554c4003e9f8d366e15ed
+green/base_files/animations/A - 302 MAD CROSS.mp4|e1869a7819cdc65be25d7ad48d0049c26417100ab1e0a2de4ef55aa8c41218bd
+green/base_files/animations/A - 401 INTERPHARM.mp4|438238866e86e736bf907cf67d3facb555e42bc8d98367cc852038636215116f
+green/base_files/animations/A - 402 WORDS.mp4|006fbdb8652eb04c96cb903ff62157177f942bd4afd3bb004a1a89eaaa6605a9
+green/base_files/animations/A - 501 BLINKING CROSS.mp4|db547788fa22c19489fbea87d425249fe30e0e26de5082039d48fcfa16fbbf81
+green/base_files/animations/A - 502  SOLID GREEN CROSS.mp4|98d2de7f379fadbd52ef69654720880a3fe230479e53f57e739b1d87ef0a47eb
+green/base_files/animations/A - 502 SOLID GREEN CROSS.mp4|7c83c0a8a3366eb9bc0e9773245ff029de9aaa269462082adcae68fc8d695d6f
+green/base_files/animations/A - 801  SNAKE 3D.mp4|a577f475ddf44ba22c6c5ebd86bce5506c364d7e5366dca923cbb911723a69f9
+green/base_files/animations/A - 801 SNAKE 3D.mp4|5b1aa439072288ac655d8f704743f0de3d70fcd1a343dd68933b672fbb5a3b2c
+green/base_files/animations/A - 802 SNAKE ROTATION.mp4|825c051aa4a429f7f4189c9cb4cafb2cb7546f20a9a695ec17b81aab81a981b4
+green/base_files/animations/A - 803 SPINNING CROSSES.mp4|f1100886f4354eafbf42a8923d8bc0d8d84f5b51a6f021a506f19f7651a76f95
+green/base_files/animations/A - 804 SNAKE FULL CROSS.mp4|0d475b880fc7c4351737b97f82cd170dd7ab8b6dba03020bd04c2b39f31a3b42
+green/base_files/animations/A - 901 XMAS.mp4|949c0ed51d4f6da35ec0322f999244d840538658ef400bb08bdfadd5d495af33
+green/base_files/animations/A - 902 XMAS.mp4|55ce90a3362eae7d8e83725186c9f4c9af90b64dc00b7e17427789c036471195
+green/base_files/animations/A - 990 GESY ANIMATION.mp4|ee060ce1f5f047ffdb34d73f22656e640e4b367f5e6263c4b5885d9376edcd93
+green/base_files/animations/A - 999 NAMEWAY.mp4|1188492ded4596d030887f1ac9e3b07cf7478312c7b042e6a6782bf6d2579d29
+green/base_files/animations/Comp 1.mp4|189b37a4803eaa8716257919364fedd8434906ed528e67e902421496858e6696
+green/base_files/animations/spinning crosses.mp4|dc64084221e88b03413dcf38a7ee4d40587f85a253747b63945350f0b03073c9
+green/base_files/animations/spinning crosses2.mp4|16218efbc1911ea21b48360caada79b71b60b0e47faec3cd576fc85e9235fcd9
+green/base_files/animations/spinning_crosses.mp4|16218efbc1911ea21b48360caada79b71b60b0e47faec3cd576fc85e9235fcd9
+green/base_files/animations_strip/A - 101 LINES 1.mp4|e0a3b3bdcfe560ddc8b05d893c17ef5b63989b62f00c183ae0253ce5793e4d15
+green/base_files/animations_strip/A - 102 LINES 2.mp4|d557408bf6b87b748b048c47ac78cccbc3b34f6c4b90d8939f3076fee93044d3
+green/base_files/animations_strip/A - 103 LINE CROSS.mp4|a9594f3491355253a44d708f88a3462183e6857ee3ef5f9c0b3897a689fe1e6d
+green/base_files/animations_strip/A - 104 ITALIAN CROSS.mp4|78a4feee8e4cf40d8ac942cebb386687be9da185ab6666ed33250d3c3e77819c
+green/base_files/animations_strip/A - 151 IN OUT CROSS.mp4|7493c270adf3333898a3a673b80449804f7184ccaeafc69383f95ff593444310
+green/base_files/animations_strip/A - 201 WAVE.mp4|09856af98900438a5e0677e07990e5717466e4ea27551f31d9b08fc26f37a480
+green/base_files/animations_strip/A - 202 ROMVOS.mp4|c80b9c5216e80a4ad57057a9a2169a41c9fb6277db764254646ead2609bfbe17
+green/base_files/animations_strip/A - 203 CORNER.mp4|b42c5f9bc786283edfdf9dd2835168ec05486f940be418f820fb79baef432c8b
+green/base_files/animations_strip/A - 204 MEANDROS.mp4|063298de0e25308a7e169e2014f0da053e1aa3dfba8c1e7d3e1c67aa42581dff
+green/base_files/animations_strip/A - 205 CHESS.mp4|56e6910981703696549264a10fd235b4c2a4dfe421e7f7b6c7afd271fac51bdd
+green/base_files/animations_strip/A - 206 HEART.mp4|a95b53dbed9a80b82d56b209d6ead4f11a21c3a8c86d25ac554299997c6e15d9
+green/base_files/animations_strip/A - 301 MORTAR.mp4|e284150c0deb5216a19742edfeb466b7bd36647ecef1490e335032518f8dc7d0
+green/base_files/animations_strip/A - 302 MAD CROSS.mp4|3b56d75dc952fda8b7902e14b2c8c6ce95d88d8607eae38a7b34cf695944f4c7
+green/base_files/animations_strip/A - 401 INTERPHARM.mp4|6e0eeaf88fce55fc4c6b5ce9a50183f93bbebe40ab6279d11321029d0a2b6421
+green/base_files/animations_strip/A - 402 WORDS.mp4|f413ae220ab5f6b6a33112015130320460530bc27d14671a2c8a7ea9eb541c02
+green/base_files/animations_strip/A - 501 BLINKING CROSS.mp4|9c7191b2740a0f50775e9414b916f14a385bc86e1a55d130f024abee46cd68d7
+green/base_files/animations_strip/A - 502 SOLID GREEN CROSS.mp4|a350d0d0d1ce46161433ff955ac6cc2580a3362801da2ade46f09641175b93bc
+green/base_files/animations_strip/A - 801 SNAKE 3D.mp4|4f1345cdce2c115b2b4ec1abab5f6db5a4a671f6ef1de5cb8f72404426bcab07
+green/base_files/animations_strip/A - 802 SNAKE ROTATION.mp4|4ef2682865ae1c4fe3e5ad1324c80a98f6f90f226c1aa757d9032fe4aeab8f17
+green/base_files/animations_strip/A - 803 SPINNING CROSSES.mp4|f8e43d60b38786bb0aec055af8c5a47b676af63d2778b498587c81e48243567a
+green/base_files/animations_strip/A - 804 SNAKE FULL CROSS.mp4|6a5cfdc197b7a03ed323d0fc4765360d393ceacd94c1c5fd44fb3cfd011e7419
+green/base_files/animations_strip/A - 901 XMAS.mp4|032575ef12fbe57471a3720b6c4f88379622b06049e26c3a7475b1a236e0af67
+green/base_files/animations_strip/A - 902 XMAS.mp4|b09266db361bd5e770efaaa591f6f66a7b98d6e928f59b1ffe4d7499e0f629de
+green/base_files/animations_strip/A - 990 GESY ANIMATION.mp4|8336e4a6ed94221de07419225478edd77555dcbe4b817c73613d46710e6effe1
+green/base_files/animations_strip/spinning crosses.mp4|841ef1a583a2443cd14a0ae02231104fb018844c80eca77520b8069a3e867579
+green/base_files/animations_strip/spinning crosses2.mp4|323fbf9fe00a27a69ed36d661714508b71e3faaf6c2bbdbdd63ebe674ab2dcc6
+green/base_files/animations_strip/spinning_crosses.mp4|841ef1a583a2443cd14a0ae02231104fb018844c80eca77520b8069a3e867579
+green/base_files/brands/Agpharm.mp4|f6909a5a39957ce82c17fcd160065e5eb06bb166d0835eb9d59dd5d2130cffe1
+green/base_files/brands/Ahava.mp4|4cbe763683b2074b99c437b541a34b3e251b3f28652a6a0d34f28104b3322262
+green/base_files/brands/Apaisyl.mp4|4795dc67afc27e54336dab4151e67991f061159caa9b3ab5500f6403f35340c6
+green/base_files/brands/Apivita.mp4|9ae6067a1be107d2dc37916edbfa18b5e250279d280669e84bf08bdc62858c4f
+green/base_files/brands/Avene.mp4|8785176e312025a355297854d386f19aa5adfc8da4e5ac23e566e85647b20af9
+green/base_files/brands/Avogel.mp4|3d19d62674f3aad55dc1457bbaeac7726aa81a808b7adc3d56e4948bbc3c1307
+green/base_files/brands/Bepanthol.mp4|5c2133dd6ba7c36262b55d3d407c335697e72b4dcc33afa5b34035481c063ef6
+green/base_files/brands/Bioderma.mp4|37d64c77754836de492cfa8e86c74186dfd68cff536b708baca70818ec43632e
+green/base_files/brands/BioOil.mp4|94d5748ecb8380a4120f68f6bf71b781a4c8f9e1ba0dd7ea8f0e6e9729509cea
+green/base_files/brands/Cer8.mp4|abbd2340786e85514a1014a0b0b979e85e803c5603a9d9e399f9b12c013d4f30
+green/base_files/brands/Cerave.mp4|383e57dacd77e09faf46851c4ed0e3e5ba72f4850efd49622b98dedcfcfcd73b
+green/base_files/brands/Chicco.mp4|356857907524212ab08859d01465bbfc88d3800c2c9dae3efbcb808db39658d6
+green/base_files/brands/Clinea.mp4|12f486cbf036116badcc19a802392c827997f33095e19d8f21e71571d9a5136b
+green/base_files/brands/Counterpain.mp4|010793819834242e9140a9ecc5c2285516949a23674f324bc7d8af552da7812e
+green/base_files/brands/Curaprox.mp4|3a9de0f4187490fd960eadd6ca494495edfe59fc7eb4e043f6e46044b886d90b
+green/base_files/brands/Doctors Formula.mp4|7f1b21a8fb1d03d1863f22f5d38e703bd3a008464a94b85dae40382dd302188e
+green/base_files/brands/Duo.mp4|feeced28c3d579e833ca860298c113a66fc5cea98b8defbe857fdc13d686abf0
+green/base_files/brands/Durex.mp4|36d3797a18661b5cea4b726d8f6ea2bfb5f39622708f810ad2d565a35fbb9ce5
+green/base_files/brands/Eviol.mp4|aa3fc814433257630ba3d9cf640478832c3497296a724346d878f161532910c4
+green/base_files/brands/Fitoplus.mp4|19ad8ae2884a898826682a655c87f8e67ff5cfd64dcb839783c6f23357f7a3d5
+green/base_files/brands/Frezyderm.mp4|ace7c5f268aa806f910d78fd5a4537621d49372f1ac612933835b470d5eccb03
+green/base_files/brands/Fyto.mp4|a7e86bc604dae4b5fb6466dd6b037fd21305f1618e6fa4aba5ba5c00c0676ed3
+green/base_files/brands/Gehwol.mp4|766b96d9b7ae25e5eb985e838143faa03eb512c2906e31b581733a30a3a95795
+green/base_files/brands/Genecom.mp4|3e3c271353bab1d6ab8a9c835e70be13065ced171bff045bcb35803eea5a7ef5
+green/base_files/brands/HealthAid.mp4|be78e7c86ccfedcef842b990bf5537b490f9e68c9e70f12b39e6e31e35e9a657
+green/base_files/brands/Helenvita.mp4|eb710ac7d6b8fe973bba6ffadb7ee024bc27dea9d445492e2f0db962b2842486
+green/base_files/brands/Hydrovit.mp4|b21d7334d28d2ed75983913e4d6d99036f32a4e1c9f8b0c0e821b3f9c87a9469
+green/base_files/brands/Intermed.mp4|f08103ade4d1fb9cefd1fb26f2f2033aeda8c661a7b745e5eac3bdc6e764b5e7
+green/base_files/brands/Klorane.mp4|6b0da5929dfcf5765d398587c532238df5a2d51a83352a088591cadc51e5645a
+green/base_files/brands/Korff.mp4|434fa9f814eb132fa5087b84df22d64d4f0e54c5ee587a0355034a3a4a1e9bb6
+green/base_files/brands/Korres.mp4|49007e088a67efded5b233735fb9bbd62f5bf5774db0cb3acbf63bec9f49086d
+green/base_files/brands/Labrada.mp4|e50880abba164643093887f6acd073d075e353f2a4f95c55ab245e3054a65ec8
+green/base_files/brands/Lamberts.mp4|6c9678664b6142042fed5a21eb91f638e86ee91716fb02abd4f06d36b77000c2
+green/base_files/brands/Lanes.mp4|375dc83e086541e19464c321d2efc5c325e122d997d234dd000023780477e195
+green/base_files/brands/LaRochePosay.mp4|3003012f17c550a457c8897e57697fe0138ecfd981719a2230aba5bb0d5bf558
+green/base_files/brands/Lerbolario.mp4|f6e0a34dde0a1309fb24e6336d4ed2368616f5b610bbc0dcd6249f68d593823d
+green/base_files/brands/Lierac.mp4|8bbe69d723bb99f2c7ae809d1eb2e365feafcddd96b19b479997c85ae70ea249
+green/base_files/brands/mam.mp4|887079d4644c4a2e1c066c14d68f18d6f573f597f2137ef8b09b8c394e7647c2
+green/base_files/brands/Mfree.mp4|f6f7a85e1d943cb720f5bdd95458fde5bc7d05a6f21aaeca2817836a88dd84c0
+green/base_files/brands/Mollers.mp4|185471f0e6119011c0f4d5d5d805454e54f5bd513dde553bbbadfa1abe66d561
+green/base_files/brands/Natura Siberica.mp4|336262fe33c0225b9b3195b0f4f59b840724765501dc3d6c669c0cfadb586393
+green/base_files/brands/Now Foods.mp4|0d2fd348a2b928f27c940176fc10d33cda524b753e70ad8934b57059092c1645
+green/base_files/brands/Nuk.mp4|ed954d0bc7e924d9f170438524d0b5e5b58f55902f8cd70a6e16280e2c0ea6a2
+green/base_files/brands/Nuxe.mp4|f17e7d2e2f946d075b1c8c95ca5a5bb613be1e89775b9064079e9b0272b97a38
+green/base_files/brands/On Nutritions.mp4|41235d1d19bcf82abf14b484759f4fa89199086de4e5e40e9ebe218d159a1bdc
+green/base_files/brands/output/backup/brands.mp4|10fc8ecaf27577a22fa11d98460754001648648945a6954c1dff2b33931dc2df
+green/base_files/brands/output/backup/output.mp4|e7d79bc44c8c75078f74a4f9bbbd2dee0b6f29a7b133ee4454ccd9d246855c02
+green/base_files/brands/output/brands.mp4|5ca9149cd705031459b6b9887484606f68ca8fb94b61250f70749481b05e5cc8
+green/base_files/brands/output/output.mp4|a2685a353190b53d4ed4e35dee0f769286b57554cb3306873cf4cf2d94da8d51
+green/base_files/brands/Pharmasept.mp4|c040468b4090906c60e627b3575edd55db690a383a86c9e515cf270ba4430eb0
+green/base_files/brands/Phas.mp4|28d30000c3a50b2a6fccdf0e76b452249d67031503d96942ad3543c974108148
+green/base_files/brands/Philips.mp4|9d5b6c2fab38f4d2a16057b1095a8a8e3e38fca8e052f8cdcd5f67c63673cbad
+green/base_files/brands/Physiomer.mp4|3fb71f61a9f61fc8ba1339b812f6cb80c51d50225e8848196a2ff94cd65a6592
+green/base_files/brands/Podia.mp4|ec5509b342803a84b1c64a827e1392110c959a75fcf6f37322cda363e4636d4b
+green/base_files/brands/PowerHealth.mp4|44981707026c61d9360eb9c41c10ddde54b761817479034890205b4876d58349
+green/base_files/brands/Purelogicol.mp4|01e2ca681ac3d9f338cbda5bcb6fbb36f7f85358f68d9cd36cf45abddd92f0e4
+green/base_files/brands/Purina.mp4|34cd7db0843afd8b5a568d14e72ecedeb8c75a0cbdad9a7f49373bd0502c6595
+green/base_files/brands/Roc.mp4|0945045c4e2431693f0a26bae0d36023ba07ccb473b4313082508742663cb729
+green/base_files/brands/Scholl.mp4|8b5b1ce24eb97e312418d981cc96725c57b31d26f1ad15a91df16906823cfb7d
+green/base_files/brands/Solgar.mp4|9f78a204c98fa9a3a40d650901d2a9a0bdf689c7710ca48026b93aed2f692f62
+green/base_files/brands/Sostar.mp4|e381d758472e2686af11c479888f5b083708a0bc94a0c35f4027d5a8c684075a
+green/base_files/brands/Tol Velvet.mp4|98af4dcbc1f327987d0591d4fdbc7f96f2b78850cc48ce36689400c297206fd7
+green/base_files/brands/Tonotil.mp4|5b3a8a3301b83aef8b657a862c02091860ce3caad2efab02ae4a4879a43de01e
+green/base_files/brands/Unipharma.mp4|1d63606afaaf9d5479e5480e6c415bcc4bb3c0fa011f5d0e8055f7f5ea3705ef
+green/base_files/brands/Uriage.mp4|f06275fcaf445ef4694bb676a31d5f0d6b4069eba187a6812846ecf6994f437b
+green/base_files/brands/Veet.mp4|c971e73380002d44bb0431e6ba64aab4a100d8ef5a54eb8b4447a383c5b3eccd
+green/base_files/brands/Verset.mp4|3f626cb54a80adabbc84a7f13df9a41eee8ab677d1f9bba4123f7147e31dba59
+green/base_files/brands/Vichy.mp4|fb6e9367cee5463a2cc3db312171d0ffa12745418468167d6a275e4ae23ffe56
+green/base_files/brands/Youth Lab.mp4|0333ea4178b5bc0e17f16e9ca35051c09e6a48ddee5fe6daed792cc44b3ffcef
+green/base_files/brands_strip/Agpharm.mp4|7bc33a1e34b3dc076fe3dbbec8bd4e5f2bf6d36979391cad842dff1b988910bc
+green/base_files/brands_strip/ahava.mp4|0e3509d3a2879f9f165be7887e6c6304c800c4d9d17ebba478f4c3cae5b76291
+green/base_files/brands_strip/Apaisyl.mp4|4b91529a98627df6657c7d0715f568bcdbdf738c35e51a93204a90bccacdb5e3
+green/base_files/brands_strip/Apivita.mp4|9363a4359527c0065126a84ee4aa05cb766a012cb13a58e4fd5f2c8fc53d5813
+green/base_files/brands_strip/Avene.mp4|74d24bf18492534279436add2bd8e3f7a803b5b19a036358385fb5a2e50c8101
+green/base_files/brands_strip/Avogel.mp4|42b3f25a65f73f5c10b8b33b3668f1b32145b08b290c87749f7ea142ae9196db
+green/base_files/brands_strip/Bepanthol.mp4|e32bd86904be4f70da64678af9882d41ccb839ed59205dd32e537b9f2a91da28
+green/base_files/brands_strip/bg1.mp4|3876f495b1ec52bf4b9f54aef193a94d015d0382e8d67517d0d417f4c03efbb1
+green/base_files/brands_strip/Bioderma.mp4|a08fd533cf5b0f5fc1ee29716879f0f8d882795d3aaa7fd8bd077c5694135527
+green/base_files/brands_strip/BioOil.mp4|e8286a517774d7a0ba94588c2ff176e71c94222e4b1b893c33803c6a2a8a0d9b
+green/base_files/brands_strip/Cer8.mp4|a5c34d6d369f00f11a3fb9f43748fe4ab87f68dc24a5c4f5e645b99c35e42491
+green/base_files/brands_strip/Cerave.mp4|1bdef1622a018ca4dbfef7b9ed6c5575fe473b047ad952b51f2204418b4a94bc
+green/base_files/brands_strip/Chicco.mp4|d0cc2f86527e1077cc60248e4df92bd59f093f1e218548ecf42155677d089bd2
+green/base_files/brands_strip/Clinea.mp4|e18f628e4ec3ef973bf6dead91378f48ee73576a59c990187097b7c32687f65e
+green/base_files/brands_strip/Counterpain.mp4|f669768ba148e3f586b36e5981d227bf6bc0737af45c2abdd2c7c2ad857f7a78
+green/base_files/brands_strip/Curaprox.mp4|9680de550d2cbec326d16921137dec04d3c21a152e1024eed5a55a5c88a9d1d4
+green/base_files/brands_strip/Doctors Formula.mp4|16d34fdbf968ec0cc05b3f5c6a3e7f702e64e67d9cacda37e5acf2f52b133ebd
+green/base_files/brands_strip/DUO.mp4|77db1aa92f0f11c1cd81c7ec340000e4fddaef548f7b00c483668a7e5f6ff1c4
+green/base_files/brands_strip/Durex.mp4|e761dfbb2dfa5c4949b483388a25b9b88050dbcff34849ada577fa1eabdf2c95
+green/base_files/brands_strip/Eviol.mp4|362f31892d18ea3a74f483d0521561df97681d9f86184189d0166f1c6d78cb97
+green/base_files/brands_strip/Fitoplus.mp4|3895552884fe146f94ba117527fbea6935ee8cdf299796c94d1f3240ff78e90d
+green/base_files/brands_strip/Frezyderm.mp4|b101f12f575d2f5afba8d880a9e41f5ee4af17d5565ec42084ff1596dde91a49
+green/base_files/brands_strip/Fyto.mp4|dbcc3e3d7db9ef0358d4e09dec0b71f2613d7275a0e3a086a79ec96f66df0dba
+green/base_files/brands_strip/Gehwol.mp4|8d9280cc8c946076ae837005002a722b8857a44fb5249b36e0bf3c2afde42de2
+green/base_files/brands_strip/Genecom.mp4|ba6980e4435b2f00abe1c7ab4daad110b6088f6a0bf7d07bb3f92d58402c6f6c
+green/base_files/brands_strip/HealthAid.mp4|e577780ce22669f5825104ea87f5578058a7e072b59d0e3c26c45e07aa8bde0b
+green/base_files/brands_strip/Helenvita.mp4|cb511491c17b9dcd48e63e8c3e9809bbe23d158c741c3dc36d35f8f562a08f33
+green/base_files/brands_strip/Hydrovit.mp4|1b4c70c80129364dc74035a889f79f5300a961dfb7813de8b6ae595b89f9e97d
+green/base_files/brands_strip/Intermed.mp4|25eafb27443765fcf4dfce52267083de1c198cf0b111de18b02198cd4bd4dcfa
+green/base_files/brands_strip/Klorane.mp4|a9a692e9b04f7c4ae437ace9aef1caf8c29d9b80831e6ed5c5970a1e7ab65aac
+green/base_files/brands_strip/Korff.mp4|feeed3472ebf96b0b7cc6342be39d83a7ae1b973cd67da30303b81d9efd329a4
+green/base_files/brands_strip/Korres.mp4|a14cbbce57e5821834a83d7ac4d6074ca6d55e3ddcf4f660858aa3be2e1ea498
+green/base_files/brands_strip/Labrada.mp4|bde6799fa067de88b3303959ce8717b033727e11a8fc4fdfbf1b92729579745f
+green/base_files/brands_strip/Lamberts.mp4|b9b286865e3496f65e620b5da6d943bfca2dcfb1a3901bec7ac402006e170057
+green/base_files/brands_strip/Lanes.mp4|d2d55e53a2ba8a98b5c1cc20315ec311c04ab3a4bd5fdd7603e9fb750e6923d9
+green/base_files/brands_strip/LaRochePosay.mp4|6882a4b2fd2c4f589dbbc64cd696cb9244a81be02aa61d02d18129a063d72baf
+green/base_files/brands_strip/Lerbolario.mp4|1d69334f768eb7030b97c58d780d6be9830945058af198634e4a019b59e4eca8
+green/base_files/brands_strip/Lierac.mp4|dd9b443b6eeb677d463e3fd1663cbcd1b1c89275d4f51f3c55fbe9224552d165
+green/base_files/brands_strip/mam.mp4|6be65c7bd01654bf3af36bd2a7d1183c97105991a7d6fdb30ba1c862942a309f
+green/base_files/brands_strip/Mfree.mp4|0ee704a92f77638ab22f7bb521ef985a091d63b04db72255d996ba0ee70d566e
+green/base_files/brands_strip/Mollers.mp4|a5699eaca1040b476e3f3ae297f9e8e92b7c0939decd5e5abc02b11e42f0f261
+green/base_files/brands_strip/Natura Siberica.mp4|f3a1d025f964e83d25fa82e91860ede81c757923e63dd07893ea0e5c9bc6f584
+green/base_files/brands_strip/NowFoods.mp4|f741542fc9b1396351f25396576bc75b9c7c75d7c7e665480cc6bd8a3a2924c4
+green/base_files/brands_strip/Nuk.mp4|28a6b602188c5f471fc0d214648e478724eb321ce4ad484bcd268813584e79cc
+green/base_files/brands_strip/NUXE.mp4|4b1580663752466ffde7fb8e2d2250da4012138b7999d38340fa656d5154cc9f
+green/base_files/brands_strip/On Nutritions.mp4|b891d7fff95a0968757c0482c194a350fe991d901ad53432482c2c540f03cb66
+green/base_files/brands_strip/output/backup/brands.mp4|10fc8ecaf27577a22fa11d98460754001648648945a6954c1dff2b33931dc2df
+green/base_files/brands_strip/output/backup/output.mp4|e7d79bc44c8c75078f74a4f9bbbd2dee0b6f29a7b133ee4454ccd9d246855c02
+green/base_files/brands_strip/output/brands.mp4|d3f38e0b8a173c86355cede4a2f0c9feeb2c2583ba6d056fef8a55930c5c3454
+green/base_files/brands_strip/output/output.mp4|342368beadcb8604e8346830b5763afa619c78c53fc22d6af47f039c2704f984
+green/base_files/brands_strip/Pharmasept.mp4|4f4413efd8ea4e586a0757716e88eb78a075ce8e64a669b08f939571317fb1b5
+green/base_files/brands_strip/Phas.mp4|ed027eeb791d506b283b61db2928c91bd09b4481e448d98ef6035cce892f5228
+green/base_files/brands_strip/Philips.mp4|67c3823b5fce4b52d32e70b2c3cbe22788c8a91bcfe9db33881b27c820fc67b6
+green/base_files/brands_strip/Physiomer.mp4|c10e26bda6796963d6da9ffb29c74ebf2c18afb0542941e82fd538ee0fad308f
+green/base_files/brands_strip/Podia.mp4|475bd683a3307a4c1312fa8c0f8f4ae361143e78b86fc291fcbf488af4f6c80f
+green/base_files/brands_strip/PowerHealth.mp4|573befc1d6ce31870ef36c64bc9004da5ec1f486def6040edfb2aeb9a950b13e
+green/base_files/brands_strip/Purelogicol.mp4|9246d9993af95f49124aab1c6da808c0ce4bcf7c99de47407b7275f2eac4905e
+green/base_files/brands_strip/Purina.mp4|ea2cd0c6733bd8daf38ece6803f04129851a189a5bf88666ff3c0409fdeeda0f
+green/base_files/brands_strip/Roc.mp4|be73206399fbc6be29856e0c77f370286877f879cf03875b452d43a627ac6ec1
+green/base_files/brands_strip/Scholl.mp4|0408bd1d8b124f5ceb6e1750d6e13eda37e61cfaa7534710f60ba5da34622d29
+green/base_files/brands_strip/Solgar.mp4|70ad644f0c95b4601fc49f9c6ffe5c6525d69287a4cf47bfe39d12ea6a3a9c30
+green/base_files/brands_strip/Sostar.mp4|9a440fd409915f2bd3f89828ac10d25ce1b094ef6391947e0e67f3d912f23b26
+green/base_files/brands_strip/spinning_crosses.mp4|21550a66f49dc076d339650323b39aaa93da64818b5a4c92a1e60c0d4d346c07
+green/base_files/brands_strip/Tol Velvet.mp4|b36f7a3d9a74f03f2bd32943cc6f0433265f46a7739a23b1b2ead8312c6e8f44
+green/base_files/brands_strip/Tonotil.mp4|bca7c27008ac5827ee56120a7f1d40e8b5bb6712b368a9e0504040420ef6e534
+green/base_files/brands_strip/Unipharma.mp4|93d7b5c4a5eef01a432cdd6d673c947fd113801c5224969e6d46a9f7b38e0c87
+green/base_files/brands_strip/Uriage.mp4|0124f37a35cdd27fa03071cf16febea75b30bb067de475403306ef94044823ec
+green/base_files/brands_strip/Veet.mp4|d143bb644d14045d05a20067a27cd48cca45131e52bc223e5e7439a3e9e9acda
+green/base_files/brands_strip/Verset.mp4|8d0a06eb13d8ff1668a8ed999b342331004f0718e7381acdac0ccee4ce6b720f
+green/base_files/brands_strip/Vichy.mp4|05a4bb19d28a0270a4cef50054affc3f64ddfe484d3b5d303df9dd42b4a39fb0
+green/base_files/brands_strip/videoPaths.txt|0b52afc674b5af74ed81958a6d817b4898633186544b345007d8e3df8c500d63
+green/base_files/brands_strip/Youth Lab.mp4|72e3130d4acb893dd1fc68136cdf6ae76cf0545a5eea91fbe8ba5afde62dede7
+green/base_files/texts/1green1.txs|6333799f3c1cbe57de327451e0cb255f93d0dd924bf6f64216f35495993bea93
+green/base_files/texts/1green2.txs|6333799f3c1cbe57de327451e0cb255f93d0dd924bf6f64216f35495993bea93
+green/base_files/texts/1green3.txs|6333799f3c1cbe57de327451e0cb255f93d0dd924bf6f64216f35495993bea93
+green/base_files/texts/green1.txs|52368b19b41724d2921e0824389b90f861104da26dffd86661978e7167febad6
+green/base_files/texts/green2.txs|52368b19b41724d2921e0824389b90f861104da26dffd86661978e7167febad6
+green/base_files/texts/green3.txs|52368b19b41724d2921e0824389b90f861104da26dffd86661978e7167febad6
+green/base_files/texts/slash-d1.rtxt|0dc74a6eb068f4f19e4b2fb299fc2471855f47c7e1df7ee1d571f8288173d15f
+green/base_files/texts/slash-d2.rtxt|0dc74a6eb068f4f19e4b2fb299fc2471855f47c7e1df7ee1d571f8288173d15f
+green/base_files/texts/slash-d3.rtxt|0dc74a6eb068f4f19e4b2fb299fc2471855f47c7e1df7ee1d571f8288173d15f
+green/base_files/texts/text1.txt|e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+green/base_files/texts/text2.txt|e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+green/base_files/texts/text3.txt|e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+green/base_files/texts/white1.txt|e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+green/base_files/texts/white2.txt|e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+green/base_files/texts/white3.txt|e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+green/preview/animation/101 lines 1.mp4|2f38cd65a1d908866445b11864134c77f3d7a1360c8a0b5bd3c4b8ed175592e4
+green/preview/animation/102_lines_2.mp4|1ae0c0c6703ad5b7aa9fdf97363061e62d9d9001035e8b719f89fe082ec75b4e
+green/preview/animation/103_lines_cross.mp4|7077da08fe68683a7187fdea02f5c108a5df178e1ba6b9d56a70f30183aecc45
+green/preview/animation/104_italian_cross.mp4|ce5f6493e685a03c496f93a80950662a9a86daa7102ab07e9f49e878f82f528c
+green/preview/animation/151_in_out_cross.mp4|61c0183dfc7b4288949f017eb6ee0137aab57b15ab7a4477fac9952b95b88603
+green/preview/animation/201_wave.mp4|6e1c32d2ba5a78926b7060e379321e16c61631a82bc88608f7c41badf7c52f6b
+green/preview/animation/202_romvos.mp4|42eb4a8e773e722f9c9eb3e95dba2921120cba7cb0ac4925c801ab0646da410f
+green/preview/animation/203_corner.mp4|c2da78ed42ed391a6a18ce5051511c0e4c90dc6320096436525555002d1a9747
+green/preview/animation/204_maiandros.mp4|0b5f041b46a79fa2e9022a1e739d77a8e8c5606d009282b115bc189126faaff6
+green/preview/animation/205_chess.mp4|0f294fa575030e6e2431b86c31c4fa388dd69f8d5e50ade0320b1480c59a2a6e
+green/preview/animation/206_heart.mp4|ef1a396cc30665b7cdac8977793cbf0a8a022bdcd1ab24d4ddadfcd75c664c61
+green/preview/animation/301_mortar.mp4|7863e2126d3c1685669394f32765244f28fcfcb41c3ea6a5adf881508d0fd23f
+green/preview/animation/302_mad_cross.mp4|2f4aee02a4e790ebadcfd14e5bb327f5832aa190b7b18deff835943d7a56c96e
+green/preview/animation/401_interpharm.mp4|f1286619c7ea9c78e3929035d8c9430a1a0c1579e35264b04b62dc718d4aa142
+green/preview/animation/402_words.mp4|d06f253cb33d8ff83a972076247d47e2444eabcaeb6f8db9d628dff4c7bc8a2c
+green/preview/animation/501_blinking_cross.mp4|91d399056cf43a34035daaaf7a03a8aafe7c1a380e75789fedba878e5a4907a0
+green/preview/animation/502_solid_green.mp4|83417e132bfefc633e0de4c3eab9548ee46816be9558998f64df8f4309e160e3
+green/preview/animation/801_snake_3d.mp4|e473b2ebd57f39300e8a02d24f4b89c082e50ccdfd02ef0d3e5a32fb38e756e9
+green/preview/animation/802_snake_rotation.mp4|83826bead752003187da52cc98750f815e50d66c88c3fe7fdd1da99c71826656
+green/preview/animation/803_spinning_crosses.mp4|1a65ae192e118349fdbd8f3b377f3d257412dc8b7c9b919ed63c796ba2cbc9d2
+green/preview/animation/804_snake_full_cross.mp4|508ec79d144dc1dd2586d9dcd0327caf0dcf6fed291c6756019ac2caba27eb00
+green/preview/animation/901_xmas_1.mp4|9e2ee1f7601372323517f4beb10cec566731216bc4db70bb6983bdeb2d76ce0a
+green/preview/animation/902_xmas_2.mp4|933ddfe3687404636b94b79a840c1a97f6c121a91593a87da7605b59f4d17d31
+green/preview/animation/990_gesi.mp4|e5e590f0345f583d0eafbcf7b2b2d972568e1530c0361af1524f5ceffc7e6fb5
+green/preview/animation/999_nameway.mp4|ae351ad62e6fcc647a9a1236438682edc6bb1760afc6a5c8829b17592e0ec5c3
+green/preview/animation/default.mp4|e86e0c00720ee25031a866830caff06b9dc9854dcd2f03815e8114a527833f58
+green/preview/brands/agpharm.mp4|10e05d08b2d68628354d96d39f6d44bbe7c094ff38626a77895ff668760ae65b
+green/preview/brands/Ahava.mp4|4cbe763683b2074b99c437b541a34b3e251b3f28652a6a0d34f28104b3322262
+green/preview/brands/apaisyl.mp4|0585463b833595beb608203d77417fc69049f944162e51f1cfdce58fe11d6448
+green/preview/brands/apivita.mp4|bd50dd70aa0328c73af47b3ce3bc8bc220bde2b0173d03ab82dbed492a9156fa
+green/preview/brands/avene.mp4|2f9dc84b1c3ed099689a8501a675df11bd0d9c54350d0b77c034f5793d3ad91e
+green/preview/brands/avogel.mp4|53dc38b4deabfb833393f4e6b53807e65a23f2ec8ef0f70cac07d7c08183bd11
+green/preview/brands/bepanthol.mp4|8ced23e1852179dec0027ee92fd3e212e23eb52807d8da2c56b72a39648c060c
+green/preview/brands/bioderma.mp4|2c1b839beaa7969591bf691205c6a88f0d6402213aba8ab09b3c3e8fe9a21e79
+green/preview/brands/biooil.mp4|72b425b7e88fe7164c1782beb407fb0e5486ba75214ad6376aa024ffe0d18053
+green/preview/brands/cer8.mp4|dd8ad2dc48d4aa055ecf8f3f8afc04dd88593a89dc19f4b56537597e8fcc1c69
+green/preview/brands/Cerave.mp4|383e57dacd77e09faf46851c4ed0e3e5ba72f4850efd49622b98dedcfcfcd73b
+green/preview/brands/chicco.mp4|cea60be1284ed25001aaef1de55db8ba734d905b13b3f1978882aa80deff73a2
+green/preview/brands/Clinea.mp4|12f486cbf036116badcc19a802392c827997f33095e19d8f21e71571d9a5136b
+green/preview/brands/Counterpain.mp4|010793819834242e9140a9ecc5c2285516949a23674f324bc7d8af552da7812e
+green/preview/brands/curaprox.mp4|4166f7dc24bf4797166cc5c2982160b7771c7b3a83cda872fc90066461e56035
+green/preview/brands/Doctors Formula.mp4|7f1b21a8fb1d03d1863f22f5d38e703bd3a008464a94b85dae40382dd302188e
+green/preview/brands/Duo.mp4|feeced28c3d579e833ca860298c113a66fc5cea98b8defbe857fdc13d686abf0
+green/preview/brands/Durex.mp4|36d3797a18661b5cea4b726d8f6ea2bfb5f39622708f810ad2d565a35fbb9ce5
+green/preview/brands/eviol.mp4|291f0ea2dab24a35839df9ffb66b6b40f4694e9369d3f15ce5c37235754cb133
+green/preview/brands/fitoplus.mp4|6cbb5e1cec5f7aaca05f43a93913333c074ff4355afd353e139486b9f7a93388
+green/preview/brands/frezyderm.mp4|eecc10e645617a7cce02d11a1a46c6786a1781a98e120f536451176770482700
+green/preview/brands/Fyto.mp4|a7e86bc604dae4b5fb6466dd6b037fd21305f1618e6fa4aba5ba5c00c0676ed3
+green/preview/brands/gehwol.mp4|908f9fd18ee2c974124953180d809cac372154d777bd314557ef976be46f007e
+green/preview/brands/Genecom.mp4|3e3c271353bab1d6ab8a9c835e70be13065ced171bff045bcb35803eea5a7ef5
+green/preview/brands/healthaid.mp4|0b84c83c3bcbcee635e81c9e71c516cb0f6c882b68281fb5b3934d55d8e92d44
+green/preview/brands/Helenvita.mp4|eb710ac7d6b8fe973bba6ffadb7ee024bc27dea9d445492e2f0db962b2842486
+green/preview/brands/hydrovit.mp4|5806e3ecd605a3299dd932b8b7d4f0a4cba2c53067b051deae699b29679d6b28
+green/preview/brands/intermed.mp4|4d37ea270fabae90e87ecf197e20d08b63cc2bed8b9349edfc16ae4649ad11d1
+green/preview/brands/klorane.mp4|21af6544467b73be9ba4f8546fd83698d3bc5ea4fb2aa33ed90a644f351047b4
+green/preview/brands/korff.mp4|8a2e975feac9440437ba011b9f47ad7800d5cce1a737927a84b240c11964473e
+green/preview/brands/korres.mp4|d3715e09dac46e33ea01f81cfade0e151e5a33ac32f744b6c858cc1f1088fa05
+green/preview/brands/Labrada.mp4|e50880abba164643093887f6acd073d075e353f2a4f95c55ab245e3054a65ec8
+green/preview/brands/lamberts.mp4|11d844a77de6c7d153bff295a29cc601c1386a15d61d2ea6477f949761bc68c7
+green/preview/brands/lanes.mp4|0041497d29e92e873414f7b5c085d9331212b80ddbbf451a43d06900c1bcbf66
+green/preview/brands/larocheposay.mp4|f3ab71d7d33148f8dfb6e7f66ba9a782e26d391c861bc2d7fb3bb996ca62dcca
+green/preview/brands/lerborario.mp4|ae9406ce65c76f2519a389f79ffd11a0413d1c4022e1e041d088a6fd5eb6976d
+green/preview/brands/lierac.mp4|14f6d09f5f5a6a5602765d0613a8779fbc3d93a38453eec373b1d9bb024859df
+green/preview/brands/mam.mp4|887079d4644c4a2e1c066c14d68f18d6f573f597f2137ef8b09b8c394e7647c2
+green/preview/brands/mfree.mp4|83de04a4617e148788a2d8a44b53db29a9547248189920d6063dcb4c7fdabc40
+green/preview/brands/Mollers.mp4|185471f0e6119011c0f4d5d5d805454e54f5bd513dde553bbbadfa1abe66d561
+green/preview/brands/Natura Siberica.mp4|336262fe33c0225b9b3195b0f4f59b840724765501dc3d6c669c0cfadb586393
+green/preview/brands/Now Foods.mp4|0d2fd348a2b928f27c940176fc10d33cda524b753e70ad8934b57059092c1645
+green/preview/brands/nuk.mp4|5376a4f59b82ab1a00fe0e5d8a5efe78b351f481bf59c852d5f904388e2150c8
+green/preview/brands/nuxe.mp4|a248032fd25c45844b43363999297af473c82906d1591c48435b5b32ca2c7b62
+green/preview/brands/On Nutritions.mp4|41235d1d19bcf82abf14b484759f4fa89199086de4e5e40e9ebe218d159a1bdc
+green/preview/brands/pharmasept.mp4|366fd6c177fc7545e5f7ccefd7bf5b708878b43cde37cfd2e0c55dbb7876660e
+green/preview/brands/Phas.mp4|28d30000c3a50b2a6fccdf0e76b452249d67031503d96942ad3543c974108148
+green/preview/brands/philips.mp4|585a5e73243719df7d7aaedb2456f327e9f95625bbac014b42a6ef1492bb26d9
+green/preview/brands/Physiomer.mp4|3fb71f61a9f61fc8ba1339b812f6cb80c51d50225e8848196a2ff94cd65a6592
+green/preview/brands/podia.mp4|9830523d4828856a8ff391c58adf9ff7600bd29e6b9e05216632c1bfccf8d7d7
+green/preview/brands/powerhealth.mp4|1b799cbd8c96e92bdfb669f13c920c1e09cd3cfe9d74ca2b0115c10d9bb9270c
+green/preview/brands/Purelogicol.mp4|01e2ca681ac3d9f338cbda5bcb6fbb36f7f85358f68d9cd36cf45abddd92f0e4
+green/preview/brands/purina.mp4|12267f485bdfb5b5b5caaedaeb71c1d0265ccf87d4d38d6420a7b963fd045f57
+green/preview/brands/roc.mp4|9f1281e5af9bffa92503f90e4633b2c5f99839ac10d4cc6a8fb515c01a4905bb
+green/preview/brands/scholl.mp4|7da093704a31b60b2cd693020de96236e568686103e5a46ae083ab09056a7418
+green/preview/brands/solgar.mp4|94afa0b49a59564e769cc6840c302c0dde118837b0e1cfb50e240064dae587be
+green/preview/brands/sostar.mp4|7b0b233733d468a85c2f8063b9e79f470e303a2b54f03345367c34cfa8d3c3d1
+green/preview/brands/Tol Velvet.mp4|98af4dcbc1f327987d0591d4fdbc7f96f2b78850cc48ce36689400c297206fd7
+green/preview/brands/Tonotil.mp4|5b3a8a3301b83aef8b657a862c02091860ce3caad2efab02ae4a4879a43de01e
+green/preview/brands/unipharma.mp4|e03b02cb1394eca6156371621110ef3545098cd64a690736ddc49f08d4d57900
+green/preview/brands/Uriage.mp4|f06275fcaf445ef4694bb676a31d5f0d6b4069eba187a6812846ecf6994f437b
+green/preview/brands/Veet.mp4|c971e73380002d44bb0431e6ba64aab4a100d8ef5a54eb8b4447a383c5b3eccd
+green/preview/brands/verset.mp4|3af503208f23b0a9dc1aa453018e293e2fbc9737de183900c79384f07fca17aa
+green/preview/brands/vichy.mp4|57cb1ab25541abe72865f0bb4fa4c951179d0f9a8e4c4dea1b4aa2cfa0be4c49
+green/preview/brands/Youth Lab.mp4|0333ea4178b5bc0e17f16e9ca35051c09e6a48ddee5fe6daed792cc44b3ffcef
+green/preview/default.avi|0da36f55c720cae2b039a42c1912f986b849d911969b9b80d11aa035cf57e8b3
+green/preview/dtt/date.mp4|eb27812f1642c6f5a22d1ae62fb4c80a354aef71ddd99008b9562095732960f3
+green/preview/dtt/temp.mp4|201e01af8cce2c19eb0d555662442c2360fdccbf3b3c8ca74d6d00dd627b2f2d
+green/preview/dtt/time.mp4|c7c4851febc8f389d6f8d68fe5b687e3549b7e244127fadafceaa40d43fac14e
