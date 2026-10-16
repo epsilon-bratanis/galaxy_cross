@@ -81,13 +81,13 @@ chroma/base_files/animations_strip/A - 301 ABSTRACT 1.mp4|24622e4981d3a8c08fa7ed
 chroma/base_files/animations_strip/A - 301 ABSTRACT 2.mp4|2dbb3980aaf7ec15a4157290e352e7f0974849776b976e829b8f51775cdb1b65
 chroma/base_files/animations_strip/A - 301 ABSTRACT 3.mp4|1f6cf83c9761825c7331faff2e31c69561b13abd6809830c97977801a67c4436
 chroma/base_files/animations_strip/A - 301 ABSTRACT 4.mp4|13eee2a16441130d65ead989cfa20dac56301ae5d3109ec99f25558ea39ff731
-chroma/base_files/animations_strip/A - 401  INTER-FARMACIA.mp4|9ed8848b0224e558b1220935e789ea1170b6c808c11430873096e2319e45867a
-chroma/base_files/animations_strip/A - 401  INTER-FARMAKEIO.mp4|d6076fc221d2aa0c8433cf03ac9d6bc38cbe78637cc29ab6fb28ab7b382344c5
-chroma/base_files/animations_strip/A - 401  INTER-PHARMACY.mp4|f3316f8307241b7820ef75cf9c96a1175a25b8d30f99a075db2f1300cac5e115
+chroma/base_files/animations_strip/A - 401 INTER-FARMACIA.mp4|9ed8848b0224e558b1220935e789ea1170b6c808c11430873096e2319e45867a
+chroma/base_files/animations_strip/A - 401 INTER-FARMAKEIO.mp4|d6076fc221d2aa0c8433cf03ac9d6bc38cbe78637cc29ab6fb28ab7b382344c5
+chroma/base_files/animations_strip/A - 401 INTER-PHARMACY.mp4|f3316f8307241b7820ef75cf9c96a1175a25b8d30f99a075db2f1300cac5e115
 chroma/base_files/animations_strip/A - 401 INTER-APOTHEKE.mp4|f5b6b7d0e4a351820a96e8c09f2a4f2a84700e7f6e1403c964960946a6048d77
 chroma/base_files/animations_strip/A - 421 INTERFAR ZIPPER.mp4|454831aa89cf53aecda5b00d88f6279ae9ffc7f43abc03f2c83cda70fe6f4e40
 chroma/base_files/animations_strip/A - 425 INTERFAR WORD.mp4|fb23fd36f55687c1dd2fd62d07a380e229e6fff8d57b9fe29bd687e350ffb132
-chroma/base_files/animations_strip/A - 501  MED ΦΥΤΙΚΑ ΚΑΛΛΥΝΤΙΚΑ.mp4|374d6deb8834230cb0e98ab36bc6c4bfdfc1424278654fcd223514c96e4dc390
+chroma/base_files/animations_strip/A - 501 MED ΦΥΤΙΚΑ ΚΑΛΛΥΝΤΙΚΑ.mp4|374d6deb8834230cb0e98ab36bc6c4bfdfc1424278654fcd223514c96e4dc390
 chroma/base_files/animations_strip/A - 501 MED DIAITHTIKA.mp4|fb9b79331fadbceeaed141573f20bdf3874799bf0b50e35cd7506f45f65b9a6c
 chroma/base_files/animations_strip/A - 501 MED FITIKA KALLYNTIKA.mp4|3754ecd5a74f24a58b60080f9010822f1fd244d489ded8e523037c7dac5290a7
 chroma/base_files/animations_strip/A - 501 MED ORTHOPEDIKA.mp4|dd128da2456a583a0fa2f571b7da61c8d4d53248d31044ddbbd8b11aa7458b9c

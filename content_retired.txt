@@ -3,3 +3,7 @@ green/base_files/animations/A - 801  SNAKE 3D.mp4
 chroma/base_files/brands/epanthol.mp4
 chroma/base_files/brands/OnNurt.mp4
 green/base_files/animations/spinning crosses2.mp4
+chroma/base_files/animations_strip/A - 401  INTER-FARMACIA.mp4
+chroma/base_files/animations_strip/A - 401  INTER-FARMAKEIO.mp4
+chroma/base_files/animations_strip/A - 401  INTER-PHARMACY.mp4
+chroma/base_files/animations_strip/A - 501  MED ΦΥΤΙΚΑ ΚΑΛΛΥΝΤΙΚΑ.mp4
