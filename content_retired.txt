@@ -78,3 +78,7 @@ green/preview/animation/901_xmas_1.mp4
 green/preview/animation/902_xmas_2.mp4
 green/preview/animation/990_gesi.mp4
 green/preview/animation/999_nameway.mp4
+chroma/base_files/animations/A - 1013 GREEN SPINNING CROSSES.mp4
+chroma/base_files/animations/A - 1014 GREEN SNAKE FULL CROSS.mp4
+chroma/base_files/animations_strip/A - 501 MED ΦΥΤΙΚΑ ΚΑΛΛΥΝΤΙΚΑ.mp4
+green/base_files/animations/A - 301 ABSTRACT 2.mp4

@@ -4,8 +4,6 @@ chroma/base_files/animations/A - 1010 SNAKE GREEN 3D.mp4|26df3c319519176f966ea49
 chroma/base_files/animations/A - 1011 GREEN SNAKE ROTATION.mp4|5f3db15b7b5fac290eec2f66ddd3de8803943e71dca6a1d384f5b2cc4c0bd519
 chroma/base_files/animations/A - 1012 GREEN SPINNING CROSSES.mp4|93b4e691ddd522fd10d63ac49234d1ef61405f211181f00dae115824df9a633e
 chroma/base_files/animations/A - 1013 GREEN SNAKE FULL CROSS.mp4|6d92b1c403a98893bd53113f960f5bcee44ceaa707bbc123a58e5d3697bd5894
-chroma/base_files/animations/A - 1013 GREEN SPINNING CROSSES.mp4|d22aa849f2e20ac7c2c57a670e7798369fd097f6a64c7ade7017ba5681fc59d8
-chroma/base_files/animations/A - 1014 GREEN SNAKE FULL CROSS.mp4|8ea1ff4df94fe85e2899af5f59849d82ac5ad96ee0e71a239b510ea0c3c38301
 chroma/base_files/animations/A - 111 HERMES GREEN.mp4|89527164cd7d2d8e2dba96f16a31fb2c2660adfd24cdec6ff5c4f5330865ffbf
 chroma/base_files/animations/A - 112 HERMES GOLDER.mp4|bde7725315dde6fe25dc12d836a29605551ab0ece07dd7a7f5ec2b7513071066
 chroma/base_files/animations/A - 121 DNA.mp4|0e44fa281870a99d6ab52a958563b3264532e41ddb221a42434329a014ad42ca
@@ -87,7 +85,6 @@ chroma/base_files/animations_strip/A - 401 INTER-PHARMACY.mp4|f3316f8307241b7820
 chroma/base_files/animations_strip/A - 401 INTER-APOTHEKE.mp4|f5b6b7d0e4a351820a96e8c09f2a4f2a84700e7f6e1403c964960946a6048d77
 chroma/base_files/animations_strip/A - 421 INTERFAR ZIPPER.mp4|454831aa89cf53aecda5b00d88f6279ae9ffc7f43abc03f2c83cda70fe6f4e40
 chroma/base_files/animations_strip/A - 425 INTERFAR WORD.mp4|fb23fd36f55687c1dd2fd62d07a380e229e6fff8d57b9fe29bd687e350ffb132
-chroma/base_files/animations_strip/A - 501 MED ΦΥΤΙΚΑ ΚΑΛΛΥΝΤΙΚΑ.mp4|374d6deb8834230cb0e98ab36bc6c4bfdfc1424278654fcd223514c96e4dc390
 chroma/base_files/animations_strip/A - 501 MED DIAITHTIKA.mp4|fb9b79331fadbceeaed141573f20bdf3874799bf0b50e35cd7506f45f65b9a6c
 chroma/base_files/animations_strip/A - 501 MED FITIKA KALLYNTIKA.mp4|3754ecd5a74f24a58b60080f9010822f1fd244d489ded8e523037c7dac5290a7
 chroma/base_files/animations_strip/A - 501 MED ORTHOPEDIKA.mp4|dd128da2456a583a0fa2f571b7da61c8d4d53248d31044ddbbd8b11aa7458b9c
@@ -517,7 +514,6 @@ green/base_files/animations/A - 203 CORNER.mp4|66549101307a77549c8dd19e691d2ada7
 green/base_files/animations/A - 204 MEANDROS.mp4|542565e9745f930ab592ce7458e12798e238f6de79e50e16c981f7e4d2ce9586
 green/base_files/animations/A - 205 CHESS.mp4|06a44858dc6da742428315c8eae52ca493da507b35e5b20383fe6798cf27c127
 green/base_files/animations/A - 206 HEART.mp4|e8acb2db95bcc65b3eb07510693e07747cb5519b36d9782a5f6de42a953eb7f8
-green/base_files/animations/A - 301 ABSTRACT 2.mp4|9c95b902b5050380d750e482c79914746544bce528cb87b4ac2bc42bec61228b
 green/base_files/animations/A - 301 MORTAR.mp4|24d9cb26a30c215dc29f3da8a905f339cf0ffd55ee9554c4003e9f8d366e15ed
 green/base_files/animations/A - 302 MAD CROSS.mp4|e1869a7819cdc65be25d7ad48d0049c26417100ab1e0a2de4ef55aa8c41218bd
 green/base_files/animations/A - 401 INTERPHARM.mp4|438238866e86e736bf907cf67d3facb555e42bc8d98367cc852038636215116f
