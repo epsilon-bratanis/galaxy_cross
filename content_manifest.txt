@@ -527,7 +527,6 @@ green/base_files/animations/A - 804 SNAKE FULL CROSS.mp4|0d475b880fc7c4351737b97
 green/base_files/animations/A - 901 XMAS.mp4|949c0ed51d4f6da35ec0322f999244d840538658ef400bb08bdfadd5d495af33
 green/base_files/animations/A - 902 XMAS.mp4|55ce90a3362eae7d8e83725186c9f4c9af90b64dc00b7e17427789c036471195
 green/base_files/animations/A - 990 GESY ANIMATION.mp4|ee060ce1f5f047ffdb34d73f22656e640e4b367f5e6263c4b5885d9376edcd93
-green/base_files/animations/A - 999 NAMEWAY.mp4|1188492ded4596d030887f1ac9e3b07cf7478312c7b042e6a6782bf6d2579d29
 green/base_files/animations/Comp 1.mp4|189b37a4803eaa8716257919364fedd8434906ed528e67e902421496858e6696
 green/base_files/animations/spinning crosses.mp4|dc64084221e88b03413dcf38a7ee4d40587f85a253747b63945350f0b03073c9
 green/base_files/animations/spinning_crosses.mp4|16218efbc1911ea21b48360caada79b71b60b0e47faec3cd576fc85e9235fcd9
@@ -737,7 +736,6 @@ green/preview/animation/A - 804 SNAKE FULL CROSS.mp4|508ec79d144dc1dd2586d9dcd03
 green/preview/animation/A - 901 XMAS.mp4|9e2ee1f7601372323517f4beb10cec566731216bc4db70bb6983bdeb2d76ce0a
 green/preview/animation/A - 902 XMAS.mp4|933ddfe3687404636b94b79a840c1a97f6c121a91593a87da7605b59f4d17d31
 green/preview/animation/A - 990 GESY ANIMATION.mp4|e5e590f0345f583d0eafbcf7b2b2d972568e1530c0361af1524f5ceffc7e6fb5
-green/preview/animation/A - 999 NAMEWAY.mp4|ae351ad62e6fcc647a9a1236438682edc6bb1760afc6a5c8829b17592e0ec5c3
 green/preview/animation/default.mp4|e86e0c00720ee25031a866830caff06b9dc9854dcd2f03815e8114a527833f58
 green/preview/brands/agpharm.mp4|10e05d08b2d68628354d96d39f6d44bbe7c094ff38626a77895ff668760ae65b
 green/preview/brands/Ahava.mp4|4cbe763683b2074b99c437b541a34b3e251b3f28652a6a0d34f28104b3322262
