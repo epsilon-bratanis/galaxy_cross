@@ -37,7 +37,6 @@ chroma/base_files/animations/A - 501 MED ORTHOPEDIKA.mp4|c809944469fbbc8db7e3b1f
 chroma/base_files/animations/A - 501 MED STOMATIKH YGIEINH.mp4|4b78ce93017e53edf1768476ab8b0393984878588fcf1b7484990b5048345923
 chroma/base_files/animations/A - 501 MED VREFIKA.mp4|d135ed8fa60f092c48dcb395930261996db26a4db89128727f4b9f43c7700f6c
 chroma/base_files/animations/A - 511 MEDTYPE VIDEO 1.mp4|723a08e7eee285550db88973b4f57d796e755b4b739627652b7d02095173d2a1
-chroma/base_files/animations/A - 611 NAME WAY 1.mp4|a302bcb9e0b057a5ea82f7e668c75e9d97bd756ff52583b4b5093b9b1ca817cf
 chroma/base_files/animations/A - 711 CHRISTMAS 1.mp4|9579f98a88703a54992f1cc03dd6f6580a2959dea4285171cecc68cb335e5bcc
 chroma/base_files/animations/A - 712 CHRISTMAS 2.mp4|b368f7048aaf8079dcb00b30933b46034af4705ad2d298d3d1d063d8292a88b5
 chroma/base_files/animations/A - 811 EASTER 1.mp4|174824fa47ae8c3786436773b69df3e66db029618865ba52730f7dd34be477e0
@@ -91,7 +90,6 @@ chroma/base_files/animations_strip/A - 501 MED ORTHOPEDIKA.mp4|dd128da2456a583a0
 chroma/base_files/animations_strip/A - 501 MED STOMATIKH YGIEINH.mp4|65a1c1a13a106e73d515de1db880c3cbe9823bf74a591a679391f91402c0342b
 chroma/base_files/animations_strip/A - 501 MED VREFIKA.mp4|240c35096d5672327e5a5ff824b14fda9cadcf724a1cfbf799685a414151eda2
 chroma/base_files/animations_strip/A - 511 MEDTYPE VIDEO 1.mp4|21998c6abbe8ee3845f13b9eb77c026a86b6e245c0fb4883f44dec2e63cdff0c
-chroma/base_files/animations_strip/A - 611 NAME WAY 1.mp4|5bbde09114024184567b4f819f3a910ef1dddcccc7339d01e3d003c3832fd6b4
 chroma/base_files/animations_strip/A - 711 CHRISTMAS 1.mp4|7f36e5518e89d7b26c944d2e435dbd37fbde279f6e3d57d32ec66bfa27b197c3
 chroma/base_files/animations_strip/A - 712 CHRISTMAS 2.mp4|e7f2e1d2eb14ab279bb968bdb8c25e5e34b79e0e27cc4c33eb4db906790c2b4c
 chroma/base_files/animations_strip/A - 811 EASTER 1.mp4|7b1ae25bc588372e7d7e87c3609bcb094ebc7bf75b2b361f5c28ca103d911f44
@@ -475,7 +473,6 @@ chroma/preview/animation/A - 501 MED FITIKA KALLYNTIKA.mp4|af3edc41e4932820364af
 chroma/preview/animation/A - 501 MED STOMATIKH YGIEINH.mp4|9945d2330b3220b5331a59721b54de1b396ec06eb88ea7e2599a39858ce8d737
 chroma/preview/animation/A - 501 MED VREFIKA.mp4|81999f8dc84eb4c1246c2bf8f0c5fcdc6b2f566f795eed4755053f5d4c8b5b2b
 chroma/preview/animation/A - 511 MEDTYPE VIDEO 1.mp4|f7b2e1f61564d4f3f660bbdefe4ce387bd306bf7c68f54e0df452e49b1a2aa50
-chroma/preview/animation/A - 611 NAME WAY 1.mp4|acb2f97a4a1c5b9cf8d14b86918211d325b7033d6c7ad5682296500b2a23471c
 chroma/preview/animation/A - 711 CHRISTMAS 1.mp4|571e3cfda6d4e5bbcd8ee547cfbac51dc5c75c027d02944804fe24aa5c7c577f
 chroma/preview/animation/A - 712 CHRISTMAS 2.mp4|c29aca0aca773d4c322fb25836d19fc8bed3fe21dc9816f745094b9bb06879bc
 chroma/preview/animation/A - 811 EASTER 1.mp4|35b76426d3bba71343fbb35cd380940eb2229bd45110ffeff29ae4ce2e6100a4
